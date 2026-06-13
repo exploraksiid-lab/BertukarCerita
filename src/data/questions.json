@@ -1,902 +1,1802 @@
 ﻿[
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "1,Es kopi susu atau teh manis dingin pas cuaca lagi panas banget?,PDKT,Fun"
+        "No":  "1",
+        "Pertanyaan":  "Es kopi susu atau teh manis dingin pas cuaca lagi panas banget?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "2,Makanan apa yang kamu suka banget tapi anehnya orang-orang pada nggak suka?,PDKT,Random"
+        "No":  "2",
+        "Pertanyaan":  "Makanan apa yang kamu suka banget tapi anehnya orang-orang pada nggak suka?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "3,Tim makan bubur diaduk atau nggak diocok?,PDKT,Fun"
+        "No":  "3",
+        "Pertanyaan":  "Tim makan bubur diaduk atau nggak diocok?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "4,Kalau lagi stres makanan apa yang biasanya jadi comfort food kamu?,PDKT,Deep"
+        "No":  "4",
+        "Pertanyaan":  "Kalau lagi stres makanan apa yang biasanya jadi comfort food kamu?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "5,Lebih suka explore tempat makan baru atau makan di tempat langganan yang udah pasti enak?,PDKT,Fun"
+        "No":  "5",
+        "Pertanyaan":  "Lebih suka explore tempat makan baru atau makan di tempat langganan yang udah pasti enak?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "6,Kalau disuruh milih mending puasa gorengan atau puasa makanan manis sebulan?,PDKT,Random"
+        "No":  "6",
+        "Pertanyaan":  "Kalau disuruh milih mending puasa gorengan atau puasa makanan manis sebulan?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "7,Punya alergi atau pantangan makanan tertentu nggak?,PDKT,Deep"
+        "No":  "7",
+        "Pertanyaan":  "Punya alergi atau pantangan makanan tertentu nggak?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "8,Suka masak sendiri atau lebih sering jajan lewat ojek online?,PDKT,Fun"
+        "No":  "8",
+        "Pertanyaan":  "Suka masak sendiri atau lebih sering jajan lewat ojek online?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "9,Mie instan kuah atau goreng? Dan apa topping wajibnya?,PDKT,Fun"
+        "No":  "9",
+        "Pertanyaan":  "Mie instan kuah atau goreng? Dan apa topping wajibnya?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "10,Kalau lagi first date menu makanan apa yang menurutmu paling aman dipesan biar nggak ribet makannya?,PDKT,Fun"
+        "No":  "10",
+        "Pertanyaan":  "Kalau lagi first date menu makanan apa yang menurutmu paling aman dipesan biar nggak ribet makannya?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "11,Kamu tipe morning person atau night owl?,PDKT,Fun"
+        "No":  "11",
+        "Pertanyaan":  "Kamu tipe morning person atau night owl?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "12,Kalau weekend lebih suka rebahan aja di rumah atau wajib keluar jalan-jalan?,PDKT,Fun"
+        "No":  "12",
+        "Pertanyaan":  "Kalau weekend lebih suka rebahan aja di rumah atau wajib keluar jalan-jalan?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "13,Lebih milih rumah yang ukurannya kecil tapi dekat banget sama kantor atau rumah luas tapi jalan berangkatnya jauh?,PDKT,Deep"
+        "No":  "13",
+        "Pertanyaan":  "Lebih milih rumah yang ukurannya kecil tapi dekat banget sama kantor atau rumah luas tapi jalan berangkatnya jauh?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "14,Punya rutinitas wajib yang harus dilakuin setiap pagi nggak?,PDKT,Fun"
+        "No":  "14",
+        "Pertanyaan":  "Punya rutinitas wajib yang harus dilakuin setiap pagi nggak?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "15,Kalau alarm HP bunyi langsung bangun atau pencet snooze lima kali dulu?,PDKT,Random"
+        "No":  "15",
+        "Pertanyaan":  "Kalau alarm HP bunyi langsung bangun atau pencet snooze lima kali dulu?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "16,Suka pakai aplikasi produktivitas buat ngatur jadwal atau tipe yang ngalir aja ngikutin mood?,PDKT,Fun"
+        "No":  "16",
+        "Pertanyaan":  "Suka pakai aplikasi produktivitas buat ngatur jadwal atau tipe yang ngalir aja ngikutin mood?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "17,Gimana caramu ngadepin macet panjang pas lagi capek pulang kerja?,PDKT,Deep"
+        "No":  "17",
+        "Pertanyaan":  "Gimana caramu ngadepin macet panjang pas lagi capek pulang kerja?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "18,Kamu tipe yang isi dompetnya rapi atau struk belanjaan nyampur sama uang kertas?,PDKT,Random"
+        "No":  "18",
+        "Pertanyaan":  "Kamu tipe yang isi dompetnya rapi atau struk belanjaan nyampur sama uang kertas?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "19,Lebih suka mencatat pengeluaran secara rutin atau tipe yang yang penting saldo masih cukup?,PDKT,Deep"
+        "No":  "19",
+        "Pertanyaan":  "Lebih suka mencatat pengeluaran secara rutin atau tipe yang yang penting saldo masih cukup?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "20,Kalau lagi rumah sendirian dan nggak ada kerjaan hal apa yang paling sering kamu lakuin?,PDKT,Random"
+        "No":  "20",
+        "Pertanyaan":  "Kalau lagi rumah sendirian dan nggak ada kerjaan hal apa yang paling sering kamu lakuin?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "21,Tontonan apa yang terakhir kali bikin kamu ketagihan sampai binge-watching?,PDKT,Fun"
+        "No":  "21",
+        "Pertanyaan":  "Tontonan apa yang terakhir kali bikin kamu ketagihan sampai binge-watching?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "22,Lebih suka nonton film di bioskop yang layarnya gede atau di kamar sambil tiduran?,PDKT,Fun"
+        "No":  "22",
+        "Pertanyaan":  "Lebih suka nonton film di bioskop yang layarnya gede atau di kamar sambil tiduran?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "23,Ada penyanyi atau band yang lagunya selalu masuk playlist harianmu akhir-akhir ini?,PDKT,Fun"
+        "No":  "23",
+        "Pertanyaan":  "Ada penyanyi atau band yang lagunya selalu masuk playlist harianmu akhir-akhir ini?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "24,Kalau diajak karaoke bareng temen lagu apa yang wajib banget kamu nyanyiin?,PDKT,Fun"
+        "No":  "24",
+        "Pertanyaan":  "Kalau diajak karaoke bareng temen lagu apa yang wajib banget kamu nyanyiin?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "25,Punya hobi yang baru-baru ini lagi sering banget kamu lakuin?,PDKT,Fun"
+        "No":  "25",
+        "Pertanyaan":  "Punya hobi yang baru-baru ini lagi sering banget kamu lakuin?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "26,Suka baca buku/artikel nggak? Kalau iya topik apa yang paling kamu suka?,PDKT,Deep"
+        "No":  "26",
+        "Pertanyaan":  "Suka baca buku/artikel nggak? Kalau iya topik apa yang paling kamu suka?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "27,Punya anabul di rumah nggak? Kalau disuruh milih kamu tim anjing atau tim kucing?,PDKT,Random"
+        "No":  "27",
+        "Pertanyaan":  "Punya anabul di rumah nggak? Kalau disuruh milih kamu tim anjing atau tim kucing?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "28,Lebih suka main game di HP buat ngisi waktu luang atau malah jarang main game?,PDKT,Fun"
+        "No":  "28",
+        "Pertanyaan":  "Lebih suka main game di HP buat ngisi waktu luang atau malah jarang main game?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "29,Kalau lagi butuh waktu sendiri (me time) biasanya kamu pergi ke mana?,PDKT,Deep"
+        "No":  "29",
+        "Pertanyaan":  "Kalau lagi butuh waktu sendiri (me time) biasanya kamu pergi ke mana?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "30,Ada konser pameran atau event impian yang pengen banget kamu datengin tahun ini?,PDKT,Deep"
+        "No":  "30",
+        "Pertanyaan":  "Ada konser pameran atau event impian yang pengen banget kamu datengin tahun ini?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "31,Dulu waktu kecil cita-citamu pengen jadi apa? Masih nyambung nggak sama kerjaan sekarang?,PDKT,Deep"
+        "No":  "31",
+        "Pertanyaan":  "Dulu waktu kecil cita-citamu pengen jadi apa? Masih nyambung nggak sama kerjaan sekarang?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "32,Jajanan SD apa yang sampai sekarang masih sering kamu kangenin?,PDKT,Fun"
+        "No":  "32",
+        "Pertanyaan":  "Jajanan SD apa yang sampai sekarang masih sering kamu kangenin?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "33,Pernah punya potongan rambut yang menurutmu super aneh pas zaman sekolah?,PDKT,Random"
+        "No":  "33",
+        "Pertanyaan":  "Pernah punya potongan rambut yang menurutmu super aneh pas zaman sekolah?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "34,Apa kebohongan paling lucu yang pernah kamu percaya pas masih kecil?,PDKT,Random"
+        "No":  "34",
+        "Pertanyaan":  "Apa kebohongan paling lucu yang pernah kamu percaya pas masih kecil?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "35,Tontonan hari Minggu pagi apa yang dulu wajib banget kamu tonton?,PDKT,Fun"
+        "No":  "35",
+        "Pertanyaan":  "Tontonan hari Minggu pagi apa yang dulu wajib banget kamu tonton?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "36,Kalau ingat zaman SMP/SMA tren apa yang pernah kamu ikutin dan sekarang bikin ketawa sendiri?,PDKT,Random"
+        "No":  "36",
+        "Pertanyaan":  "Kalau ingat zaman SMP/SMA tren apa yang pernah kamu ikutin dan sekarang bikin ketawa sendiri?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "37,Pelajaran apa yang dulu paling bikin kamu ngantuk pas sekolah?,PDKT,Fun"
+        "No":  "37",
+        "Pertanyaan":  "Pelajaran apa yang dulu paling bikin kamu ngantuk pas sekolah?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "38,Dulu kamu tipe murid yang duduk di depan merhatiin guru atau yang di belakang suka ketiduran?,PDKT,Random"
+        "No":  "38",
+        "Pertanyaan":  "Dulu kamu tipe murid yang duduk di depan merhatiin guru atau yang di belakang suka ketiduran?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "39,Pernah ikut lomba 17-an di lingkungan rumah dan menang nggak?,PDKT,Fun"
+        "No":  "39",
+        "Pertanyaan":  "Pernah ikut lomba 17-an di lingkungan rumah dan menang nggak?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "40,Apa mainan masa kecil yang paling berkesan dan sering kamu mainin bareng temen?,PDKT,Fun"
+        "No":  "40",
+        "Pertanyaan":  "Apa mainan masa kecil yang paling berkesan dan sering kamu mainin bareng temen?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "41,Mending lupa bawa dompet atau lupa bawa HP pas lagi keluar rumah?,PDKT,Random"
+        "No":  "41",
+        "Pertanyaan":  "Mending lupa bawa dompet atau lupa bawa HP pas lagi keluar rumah?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "42,Lebih milih kepanasan tapi di ruangan ber-AC atau jalan-jalan tapi cuacanya lagi mendung syahdu?,PDKT,Fun"
+        "No":  "42",
+        "Pertanyaan":  "Lebih milih kepanasan tapi di ruangan ber-AC atau jalan-jalan tapi cuacanya lagi mendung syahdu?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "43,Kalau disuruh milih cuaca: hujan rintik-rintik sambil minum hangat atau cerah berawan pas buat aktivitas di luar?,PDKT,Fun"
+        "No":  "43",
+        "Pertanyaan":  "Kalau disuruh milih cuaca: hujan rintik-rintik sambil minum hangat atau cerah berawan pas buat aktivitas di luar?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "44,Sepatu sneakers yang nyaman tapi modelnya biasa aja atau sepatu stylish tapi agak bikin lecet kalau dipakai lama?,PDKT,Random"
+        "No":  "44",
+        "Pertanyaan":  "Sepatu sneakers yang nyaman tapi modelnya biasa aja atau sepatu stylish tapi agak bikin lecet kalau dipakai lama?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "45,Lebih milih telat datang ke acara penting atau datang kepagian tapi nunggu sendirian lama banget?,PDKT,Deep"
+        "No":  "45",
+        "Pertanyaan":  "Lebih milih telat datang ke acara penting atau datang kepagian tapi nunggu sendirian lama banget?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "46,Kalau liburan mending ke gunung yang sejuk atau ke pantai yang banyak anginnya?,PDKT,Fun"
+        "No":  "46",
+        "Pertanyaan":  "Kalau liburan mending ke gunung yang sejuk atau ke pantai yang banyak anginnya?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "47,Mending kehabisan baterai HP pas lagi di jalan atau kehabisan kuota internet?,PDKT,Random"
+        "No":  "47",
+        "Pertanyaan":  "Mending kehabisan baterai HP pas lagi di jalan atau kehabisan kuota internet?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "48,Lebih suka chat pakai teks panjang-panjang atau dikit-dikit kirim voice note?,PDKT,Fun"
+        "No":  "48",
+        "Pertanyaan":  "Lebih suka chat pakai teks panjang-panjang atau dikit-dikit kirim voice note?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "49,Kalau lagi ngobrol di chat sering pakai emoji/stiker lucu atau tipe yang ngetik lempeng aja?,PDKT,Fun"
+        "No":  "49",
+        "Pertanyaan":  "Kalau lagi ngobrol di chat sering pakai emoji/stiker lucu atau tipe yang ngetik lempeng aja?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "50,Lebih milih pakai baju warna gelap/monokrom atau warna-warna cerah yang colorful?,PDKT,Random"
+        "No":  "50",
+        "Pertanyaan":  "Lebih milih pakai baju warna gelap/monokrom atau warna-warna cerah yang colorful?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "51,Kalau jalan-jalan ke luar kota kamu tipe yang bikin rencana detail atau gimana nanti aja pas nyampe?,PDKT,Fun"
+        "No":  "51",
+        "Pertanyaan":  "Kalau jalan-jalan ke luar kota kamu tipe yang bikin rencana detail atau gimana nanti aja pas nyampe?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "52,Tempat liburan atau cafe paling berkesan yang pernah kamu datengin sejauh ini?,PDKT,Deep"
+        "No":  "52",
+        "Pertanyaan":  "Tempat liburan atau cafe paling berkesan yang pernah kamu datengin sejauh ini?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "53,Kalau lagi pergi nginep lebih suka cari hotel yang fasilitasnya lengkap atau cobain hotel kapsul/homestay estetik?,PDKT,Fun"
+        "No":  "53",
+        "Pertanyaan":  "Kalau lagi pergi nginep lebih suka cari hotel yang fasilitasnya lengkap atau cobain hotel kapsul/homestay estetik?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "54,Pernah nyasar di suatu tempat pas lagi bawa kendaraan nggak?,PDKT,Random"
+        "No":  "54",
+        "Pertanyaan":  "Pernah nyasar di suatu tempat pas lagi bawa kendaraan nggak?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "55,Barang apa yang wajib banget ada di tas kamu (selain HP dan dompet) kalau lagi pergi seharian?,PDKT,Random"
+        "No":  "55",
+        "Pertanyaan":  "Barang apa yang wajib banget ada di tas kamu (selain HP dan dompet) kalau lagi pergi seharian?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "56,Pernah iseng cobain photobox atau studio foto selfie mandiri bareng temen-temen nggak akhir-akhir ini?,PDKT,Fun"
+        "No":  "56",
+        "Pertanyaan":  "Pernah iseng cobain photobox atau studio foto selfie mandiri bareng temen-temen nggak akhir-akhir ini?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "57,Kalau disuruh milih satu kota di Indonesia buat kerja remote sebulan kamu pilih kota mana?,PDKT,Deep"
+        "No":  "57",
+        "Pertanyaan":  "Kalau disuruh milih satu kota di Indonesia buat kerja remote sebulan kamu pilih kota mana?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "58,Lebih suka naik kereta api sambil lihat pemandangan darat atau naik pesawat biar cepet sampai tujuan?,PDKT,Fun"
+        "No":  "58",
+        "Pertanyaan":  "Lebih suka naik kereta api sambil lihat pemandangan darat atau naik pesawat biar cepet sampai tujuan?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "59,Apa oleh-oleh atau cemilan khas daerah yang paling sering kamu cari?,PDKT,Fun"
+        "No":  "59",
+        "Pertanyaan":  "Apa oleh-oleh atau cemilan khas daerah yang paling sering kamu cari?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "60,Hal sepele apa yang paling sering bikin kamu batalin rencana main padahal udah janjian?,PDKT,Deep"
+        "No":  "60",
+        "Pertanyaan":  "Hal sepele apa yang paling sering bikin kamu batalin rencana main padahal udah janjian?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "61,Tiga kata sifat yang paling pas buat ngegambarin dirimu sendiri pas lagi kumpul sama orang terdekat?,PDKT,Deep"
+        "No":  "61",
+        "Pertanyaan":  "Tiga kata sifat yang paling pas buat ngegambarin dirimu sendiri pas lagi kumpul sama orang terdekat?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "62,Apa hal kecil yang paling gampang bikin mood kamu berubah jadi jelek di hari kerja?,PDKT,Deep"
+        "No":  "62",
+        "Pertanyaan":  "Apa hal kecil yang paling gampang bikin mood kamu berubah jadi jelek di hari kerja?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "63,Sebaliknya hal sederhana apa yang paling cepat bikin mood kamu membaik lagi?,PDKT,Fun"
+        "No":  "63",
+        "Pertanyaan":  "Sebaliknya hal sederhana apa yang paling cepat bikin mood kamu membaik lagi?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "64,Kamu termasuk orang yang gampang panik atau bisa tetap santai kalau ada kerjaan dadakan?,PDKT,Deep"
+        "No":  "64",
+        "Pertanyaan":  "Kamu termasuk orang yang gampang panik atau bisa tetap santai kalau ada kerjaan dadakan?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "65,Lebih nyaman cerita masalah ke teman dekat dulu atau milih nyari solusinya sendiri dulu?,PDKT,Deep"
+        "No":  "65",
+        "Pertanyaan":  "Lebih nyaman cerita masalah ke teman dekat dulu atau milih nyari solusinya sendiri dulu?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "66,Apa satu hal dari caramu bersikap yang sering bikin orang miskomunikasi pas awal kenal?,PDKT,Deep"
+        "No":  "66",
+        "Pertanyaan":  "Apa satu hal dari caramu bersikap yang sering bikin orang miskomunikasi pas awal kenal?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "67,Kalau lagi nongkrong di circle baru kamu tipe yang ngajak ngobrol duluan atau nunggu disapa?,PDKT,Fun"
+        "No":  "67",
+        "Pertanyaan":  "Kalau lagi nongkrong di circle baru kamu tipe yang ngajak ngobrol duluan atau nunggu disapa?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "68,Bentuk apresiasi atau pujian seperti apa yang paling bikin kamu ngerasa dihargai?,PDKT,Deep"
+        "No":  "68",
+        "Pertanyaan":  "Bentuk apresiasi atau pujian seperti apa yang paling bikin kamu ngerasa dihargai?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "69,Apa satu kebiasaan unikmu kalau lagi sendirian di kamar yang orang lain jarang tahu?,PDKT,Random"
+        "No":  "69",
+        "Pertanyaan":  "Apa satu kebiasaan unikmu kalau lagi sendirian di kamar yang orang lain jarang tahu?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "70,Seberapa sering kamu tiba-tiba kepikiran hal random sebelum tidur?,PDKT,Random"
+        "No":  "70",
+        "Pertanyaan":  "Seberapa sering kamu tiba-tiba kepikiran hal random sebelum tidur?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "71,Aplikasi apa yang screen time-nya paling tinggi di HP-mu bulan ini?,PDKT,Fun"
+        "No":  "71",
+        "Pertanyaan":  "Aplikasi apa yang screen time-nya paling tinggi di HP-mu bulan ini?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "72,Kalau kamu lagi kepo sama suatu berita biasanya nyari infonya di Google Twitter/X atau TikTok?,PDKT,Random"
+        "No":  "72",
+        "Pertanyaan":  "Kalau kamu lagi kepo sama suatu berita biasanya nyari infonya di Google Twitter/X atau TikTok?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "73,Pernah nggak sengaja kepencet like di foto lama seseorang pas lagi stalking sosmednya?,PDKT,Random"
+        "No":  "73",
+        "Pertanyaan":  "Pernah nggak sengaja kepencet like di foto lama seseorang pas lagi stalking sosmednya?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "74,Lebih suka main Instagram buat rajin update story atau milih jadi silent reader aja?,PDKT,Fun"
+        "No":  "74",
+        "Pertanyaan":  "Lebih suka main Instagram buat rajin update story atau milih jadi silent reader aja?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "75,Kamu tipe yang kalau dichat balesnya detik itu juga (fast response) atau dibaca dulu lewat notif baru dibales nanti?,PDKT,Fun"
+        "No":  "75",
+        "Pertanyaan":  "Kamu tipe yang kalau dichat balesnya detik itu juga (fast response) atau dibaca dulu lewat notif baru dibales nanti?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "76,Menurutmu kehadiran AI sekarang ini ngebantu banget kerjamu atau malah kadang bikin ribet?,PDKT,Deep"
+        "No":  "76",
+        "Pertanyaan":  "Menurutmu kehadiran AI sekarang ini ngebantu banget kerjamu atau malah kadang bikin ribet?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "77,Seberapa sering kamu mengarsipkan (archive) atau nge-mute chat grup biar nggak berisik?,PDKT,Random"
+        "No":  "77",
+        "Pertanyaan":  "Seberapa sering kamu mengarsipkan (archive) atau nge-mute chat grup biar nggak berisik?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "78,Kalau ditantang buat puasa buka sosial media seminggu penuh kira-kira kamu sanggup nggak?,PDKT,Random"
+        "No":  "78",
+        "Pertanyaan":  "Kalau ditantang buat puasa buka sosial media seminggu penuh kira-kira kamu sanggup nggak?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "79,Ada konten atau video viral lucu akhir-akhir ini yang sukses bikin kamu ngakak nggak?,PDKT,Fun"
+        "No":  "79",
+        "Pertanyaan":  "Ada konten atau video viral lucu akhir-akhir ini yang sukses bikin kamu ngakak nggak?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "80,Punya second account atau tempat rahasia khusus buat repost hal-hal random yang kamu suka?,PDKT,Random"
+        "No":  "80",
+        "Pertanyaan":  "Punya second account atau tempat rahasia khusus buat repost hal-hal random yang kamu suka?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "81,Menurutmu apa sifat terpenting yang bikin kamu ngerasa nyambung banget sama teman atau pasangan?,PDKT,Deep"
+        "No":  "81",
+        "Pertanyaan":  "Menurutmu apa sifat terpenting yang bikin kamu ngerasa nyambung banget sama teman atau pasangan?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "82,Sikap seperti apa yang paling gampang bikin kamu ngerasa ilfeel di kencan pertama?,PDKT,Deep"
+        "No":  "82",
+        "Pertanyaan":  "Sikap seperti apa yang paling gampang bikin kamu ngerasa ilfeel di kencan pertama?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "83,Percaya sama kekuatan first impression nggak? Atau milih kenal lebih lama dulu baru menilai?,PDKT,Deep"
+        "No":  "83",
+        "Pertanyaan":  "Percaya sama kekuatan first impression nggak? Atau milih kenal lebih lama dulu baru menilai?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "84,Kalau lagi beda pendapat lebih suka langsung diselesain saat itu juga atau kasih waktu tenang dulu masing-masing?,PDKT,Deep"
+        "No":  "84",
+        "Pertanyaan":  "Kalau lagi beda pendapat lebih suka langsung diselesain saat itu juga atau kasih waktu tenang dulu masing-masing?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "85,Menurutmu wajar nggak sih kalau orang tetap temenan baik sama mantannya?,PDKT,Deep"
+        "No":  "85",
+        "Pertanyaan":  "Menurutmu wajar nggak sih kalau orang tetap temenan baik sama mantannya?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "86,Kalau lagi PDKT kamu lebih suka cepet-cepet ketemuan langsung atau chatting intens dulu buat mastiin nyambung?,PDKT,Fun"
+        "No":  "86",
+        "Pertanyaan":  "Kalau lagi PDKT kamu lebih suka cepet-cepet ketemuan langsung atau chatting intens dulu buat mastiin nyambung?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "87,Bentuk perhatian sepele kayak apa yang menurutmu sweet banget kalau dilakuin seseorang ke kamu?,PDKT,Deep"
+        "No":  "87",
+        "Pertanyaan":  "Bentuk perhatian sepele kayak apa yang menurutmu sweet banget kalau dilakuin seseorang ke kamu?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "88,Kalau lagi jalan berdua lebih suka obrolan santai yang banyak bercandanya atau obrolan mendalam (deep talk) soal hidup?,PDKT,Deep"
+        "No":  "88",
+        "Pertanyaan":  "Kalau lagi jalan berdua lebih suka obrolan santai yang banyak bercandanya atau obrolan mendalam (deep talk) soal hidup?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "89,Lebih luluh sama kalimat manis (words of affirmation) atau bantuan langsung yang diam-diam dilakuin (act of service)?,PDKT,Deep"
+        "No":  "89",
+        "Pertanyaan":  "Lebih luluh sama kalimat manis (words of affirmation) atau bantuan langsung yang diam-diam dilakuin (act of service)?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "90,Seberapa penting kecocokan selera tempat nongkrong dalam sebuah pendekatan menurutmu?,PDKT,Deep"
+        "No":  "90",
+        "Pertanyaan":  "Seberapa penting kecocokan selera tempat nongkrong dalam sebuah pendekatan menurutmu?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "91,Kalau kamu dapet rezeki nomplok hari ini apa barang pertama yang bakal langsung kamu checkout?,PDKT,Random"
+        "No":  "91",
+        "Pertanyaan":  "Kalau kamu dapet rezeki nomplok hari ini apa barang pertama yang bakal langsung kamu checkout?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "92,Ada skill atau kursus baru yang lagi pengen banget kamu ikutin dalam waktu dekat?,PDKT,Deep"
+        "No":  "92",
+        "Pertanyaan":  "Ada skill atau kursus baru yang lagi pengen banget kamu ikutin dalam waktu dekat?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "93,Kalau hari ini adalah hari terakhir di minggu kerja yang berat apa reward kecil yang mau kamu kasih buat dirimu sendiri?,PDKT,Fun"
+        "No":  "93",
+        "Pertanyaan":  "Kalau hari ini adalah hari terakhir di minggu kerja yang berat apa reward kecil yang mau kamu kasih buat dirimu sendiri?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "94,Apa satu pertanyaan yang dari tadi pengen banget kamu tanyain balik ke aku tapi belum sempat?,PDKT,Deep"
+        "No":  "94",
+        "Pertanyaan":  "Apa satu pertanyaan yang dari tadi pengen banget kamu tanyain balik ke aku tapi belum sempat?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "95,Kalau kita janjian ketemuan buat ngopi weekend ini kriteria cafe yang ideal buatmu itu yang kayak gimana?,PDKT,Fun"
+        "No":  "95",
+        "Pertanyaan":  "Kalau kita janjian ketemuan buat ngopi weekend ini kriteria cafe yang ideal buatmu itu yang kayak gimana?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "96,Dari skala 1-10 seberapa sering kamu iseng nyari info tentang background aku sebelum kita asik ngobrol kayak sekarang?,PDKT,Random"
+        "No":  "96",
+        "Pertanyaan":  "Dari skala 1-10 seberapa sering kamu iseng nyari info tentang background aku sebelum kita asik ngobrol kayak sekarang?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "97,Menurutmu dari gaya ngobrolku aku ini tipe orang yang aslinya serius banget atau santai?,PDKT,Fun"
+        "No":  "97",
+        "Pertanyaan":  "Menurutmu dari gaya ngobrolku aku ini tipe orang yang aslinya serius banget atau santai?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "98,Kalau obrolan kita dari tadi diibaratkan cuaca kita lagi di fase mendung cerah atau berangin sejuk?,PDKT,Fun"
+        "No":  "98",
+        "Pertanyaan":  "Kalau obrolan kita dari tadi diibaratkan cuaca kita lagi di fase mendung cerah atau berangin sejuk?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "99,Coba tebak dari semua jawabanmu tadi mana yang paling bikin aku ngerasa Wah kita mirip nih?,PDKT,Fun"
+        "No":  "99",
+        "Pertanyaan":  "Coba tebak dari semua jawabanmu tadi mana yang paling bikin aku ngerasa Wah kita mirip nih?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "100,Dari 99 pertanyaan di atas topik mana yang paling pengen kamu eksplorasi lebih jauh bareng aku?,PDKT,Deep"
+        "No":  "100",
+        "Pertanyaan":  "Dari 99 pertanyaan di atas topik mana yang paling pengen kamu eksplorasi lebih jauh bareng aku?",
+        "Fase":  "PDKT",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "101,Masih inget nggak momen exact kapan kamu ngerasa Wah aku suka nih sama dia?,Pacaran,Deep"
+        "No":  "101",
+        "Pertanyaan":  "Masih inget nggak momen exact kapan kamu ngerasa Wah aku suka nih sama dia?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "102,Kalau hubungan kita dibikin skor kayak competitiveness ranking kita unggul di indikator apa?,Pacaran,Random"
+        "No":  "102",
+        "Pertanyaan":  "Kalau hubungan kita dibikin skor kayak competitiveness ranking kita unggul di indikator apa?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "103,What if aku tiba-tiba botak besok kamu bakal tetep sayang atau ketawa dulu seharian?,Pacaran,Fun"
+        "No":  "103",
+        "Pertanyaan":  "What if aku tiba-tiba botak besok kamu bakal tetep sayang atau ketawa dulu seharian?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "104,Apa hal dari aku yang awalnya kamu kira A ternyata aslinya B banget?,Pacaran,Deep"
+        "No":  "104",
+        "Pertanyaan":  "Apa hal dari aku yang awalnya kamu kira A ternyata aslinya B banget?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "105,Mending kita nyasar bareng di jalanan kota pas jam pulang kerja atau nyasar di gunung?,Pacaran,Random"
+        "No":  "105",
+        "Pertanyaan":  "Mending kita nyasar bareng di jalanan kota pas jam pulang kerja atau nyasar di gunung?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "106,Kalau kita disuruh bikin game bareng genrenya apa dan siapa yang jadi boss terakhirnya?,Pacaran,Random"
+        "No":  "106",
+        "Pertanyaan":  "Kalau kita disuruh bikin game bareng genrenya apa dan siapa yang jadi boss terakhirnya?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "107,Sebutkan 3 hal kecil yang aku lakuin yang tanpa sadar bikin kamu senyum sendiri!,Pacaran,Deep"
+        "No":  "107",
+        "Pertanyaan":  "Sebutkan 3 hal kecil yang aku lakuin yang tanpa sadar bikin kamu senyum sendiri!",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "108,Kalau kita ikut Amazing Race kita bakal kalah di tantangan yang kayak gimana?,Pacaran,Fun"
+        "No":  "108",
+        "Pertanyaan":  "Kalau kita ikut Amazing Race kita bakal kalah di tantangan yang kayak gimana?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "109,Menurutmu ngurusin pernikahan tuh lebih bikin pusing milih catering atau nyusun daftar tamu?,Pacaran,Deep"
+        "No":  "109",
+        "Pertanyaan":  "Menurutmu ngurusin pernikahan tuh lebih bikin pusing milih catering atau nyusun daftar tamu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "110,Would you rather: Punya mertua yang super kepo tapi baik banget atau cuek banget tapi pelit?,Pacaran,Random"
+        "No":  "110",
+        "Pertanyaan":  "Would you rather: Punya mertua yang super kepo tapi baik banget atau cuek banget tapi pelit?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "111,Apa kebiasaan anehku yang sekarang malah jadi hal yang kamu kangenin kalau kita nggak ketemu?,Pacaran,Deep"
+        "No":  "111",
+        "Pertanyaan":  "Apa kebiasaan anehku yang sekarang malah jadi hal yang kamu kangenin kalau kita nggak ketemu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "112,Kalau aku tiba-tiba berubah jadi kucing peliharaan kamu bakal kasih aku makan wet food premium atau dry food kiloan?,Pacaran,Random"
+        "No":  "112",
+        "Pertanyaan":  "Kalau aku tiba-tiba berubah jadi kucing peliharaan kamu bakal kasih aku makan wet food premium atau dry food kiloan?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "113,Mari berkhayal: Kalau kita punya budget tak terbatas buat bikin rumah impian ruangan apa yang paling gede?,Pacaran,Fun"
+        "No":  "113",
+        "Pertanyaan":  "Mari berkhayal: Kalau kita punya budget tak terbatas buat bikin rumah impian ruangan apa yang paling gede?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "114,Apa topik yang menurutmu masih susah buat kita obrolin secara terbuka?,Pacaran,Deep"
+        "No":  "114",
+        "Pertanyaan":  "Apa topik yang menurutmu masih susah buat kita obrolin secara terbuka?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "115,What if kita berdua diculik alien alasan apa yang bakal kamu pakai biar kita dilepasin?,Pacaran,Random"
+        "No":  "115",
+        "Pertanyaan":  "What if kita berdua diculik alien alasan apa yang bakal kamu pakai biar kita dilepasin?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "116,Kalau kita bikin aplikasi keuangan bareng buat mantau pengeluaran pacaran siapa yang bakal jadi tukang ngomel kalau overbudget?,Pacaran,Fun"
+        "No":  "116",
+        "Pertanyaan":  "Kalau kita bikin aplikasi keuangan bareng buat mantau pengeluaran pacaran siapa yang bakal jadi tukang ngomel kalau overbudget?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "117,Apa memori date kita yang paling sering kamu putar ulang di kepala?,Pacaran,Deep"
+        "No":  "117",
+        "Pertanyaan":  "Apa memori date kita yang paling sering kamu putar ulang di kepala?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "118,Menurutmu apa satu sifatku yang paling menyeimbangkan sifatmu?,Pacaran,Deep"
+        "No":  "118",
+        "Pertanyaan":  "Menurutmu apa satu sifatku yang paling menyeimbangkan sifatmu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "119,Would you rather: Kita LDR beda benua selama setahun atau ketemu tiap hari tapi selalu berantem kecil soal makan apa?,Pacaran,Random"
+        "No":  "119",
+        "Pertanyaan":  "Would you rather: Kita LDR beda benua selama setahun atau ketemu tiap hari tapi selalu berantem kecil soal makan apa?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "120,Kalau ada film dokumenter tentang hubungan kita apa judulnya?,Pacaran,Fun"
+        "No":  "120",
+        "Pertanyaan":  "Kalau ada film dokumenter tentang hubungan kita apa judulnya?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "121,Kalau suatu saat kita lagi berantem hebat apa satu hal yang harus aku lakuin biar kamu luluh?,Pacaran,Deep"
+        "No":  "121",
+        "Pertanyaan":  "Kalau suatu saat kita lagi berantem hebat apa satu hal yang harus aku lakuin biar kamu luluh?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "122,Lebih milih staycation di hotel kapsul yang estetik atau glamping di tengah alam?,Pacaran,Fun"
+        "No":  "122",
+        "Pertanyaan":  "Lebih milih staycation di hotel kapsul yang estetik atau glamping di tengah alam?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "123,Apa hal yang menurutmu jadi kekuatan super kita berdua kalau lagi kerja sama?,Pacaran,Deep"
+        "No":  "123",
+        "Pertanyaan":  "Apa hal yang menurutmu jadi kekuatan super kita berdua kalau lagi kerja sama?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "124,Kalau aku lagi bad mood parah makanan apa yang paling cepat bikin aku seneng lagi?,Pacaran,Fun"
+        "No":  "124",
+        "Pertanyaan":  "Kalau aku lagi bad mood parah makanan apa yang paling cepat bikin aku seneng lagi?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "125,Coba deskripsikan aku pakai 3 kata waktu pertama kenal dan 3 kata untuk sekarang!,Pacaran,Deep"
+        "No":  "125",
+        "Pertanyaan":  "Coba deskripsikan aku pakai 3 kata waktu pertama kenal dan 3 kata untuk sekarang!",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "126,What if suatu hari karirku mengharuskan kita pindah ke luar pulau apa pertimbangan utamamu?,Pacaran,Deep"
+        "No":  "126",
+        "Pertanyaan":  "What if suatu hari karirku mengharuskan kita pindah ke luar pulau apa pertimbangan utamamu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "127,Apa ketakutan terbesarmu soal komitmen masa depan?,Pacaran,Deep"
+        "No":  "127",
+        "Pertanyaan":  "Apa ketakutan terbesarmu soal komitmen masa depan?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "128,Kalau kita lagi di supermarket barang apa yang pasti bikin kita berantem buat dimasukin ke keranjang?,Pacaran,Fun"
+        "No":  "128",
+        "Pertanyaan":  "Kalau kita lagi di supermarket barang apa yang pasti bikin kita berantem buat dimasukin ke keranjang?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "129,Seandainya kamu punya tombol ajaib buat nge-mute aku pas lagi cerewet bakal sering kamu pakai nggak?,Pacaran,Random"
+        "No":  "129",
+        "Pertanyaan":  "Seandainya kamu punya tombol ajaib buat nge-mute aku pas lagi cerewet bakal sering kamu pakai nggak?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "130,Menurutmu kita ini lebih mirip partner in crime atau Tom \u0026 Jerry?,Pacaran,Fun"
+        "No":  "130",
+        "Pertanyaan":  "Menurutmu kita ini lebih mirip partner in crime atau Tom \u0026 Jerry?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "131,Apa satu kebiasaan burukmu yang lagi kamu usahain hilang demi hubungan ini?,Pacaran,Deep"
+        "No":  "131",
+        "Pertanyaan":  "Apa satu kebiasaan burukmu yang lagi kamu usahain hilang demi hubungan ini?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "132,Would you rather: Lupa hari anniversary tapi inget ulang tahun atau lupa ulang tahun tapi anniversary dirayain mewah?,Pacaran,Random"
+        "No":  "132",
+        "Pertanyaan":  "Would you rather: Lupa hari anniversary tapi inget ulang tahun atau lupa ulang tahun tapi anniversary dirayain mewah?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "133,Kalau kita bisa kembali ke satu hari di masa lalu kita dan mengulangnya hari apa itu?,Pacaran,Deep"
+        "No":  "133",
+        "Pertanyaan":  "Kalau kita bisa kembali ke satu hari di masa lalu kita dan mengulangnya hari apa itu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "134,Apa ekspektasimu soal pembagian tugas rumah tangga nanti kalau kita udah tinggal bareng?,Pacaran,Deep"
+        "No":  "134",
+        "Pertanyaan":  "Apa ekspektasimu soal pembagian tugas rumah tangga nanti kalau kita udah tinggal bareng?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "135,What if keluarga kita ternyata nggak terlalu cocok satu sama lain gimana cara kita nengahinnya?,Pacaran,Deep"
+        "No":  "135",
+        "Pertanyaan":  "What if keluarga kita ternyata nggak terlalu cocok satu sama lain gimana cara kita nengahinnya?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "136,Kalau kamu disuruh bikin silabus Cara Memahami Kamu 101 apa materi Bab 1-nya?,Pacaran,Fun"
+        "No":  "136",
+        "Pertanyaan":  "Kalau kamu disuruh bikin silabus Cara Memahami Kamu 101 apa materi Bab 1-nya?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "137,Sebutkan satu hal yang aku pelajari dari kamu sejak kita bareng!,Pacaran,Deep"
+        "No":  "137",
+        "Pertanyaan":  "Sebutkan satu hal yang aku pelajari dari kamu sejak kita bareng!",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "138,Lebih milih ngelewatin krisis finansial bareng atau krisis kepercayaan (tapi ujungnya selesai)?,Pacaran,Deep"
+        "No":  "138",
+        "Pertanyaan":  "Lebih milih ngelewatin krisis finansial bareng atau krisis kepercayaan (tapi ujungnya selesai)?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "139,Menurutmu apa indikator paling jelas kalau kita tuh udah mulai bosan dan butuh liburan bareng?,Pacaran,Deep"
+        "No":  "139",
+        "Pertanyaan":  "Menurutmu apa indikator paling jelas kalau kita tuh udah mulai bosan dan butuh liburan bareng?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "140,Kalau aku tiba-tiba mutusin resign dan bikin startup dari nol kamu bakal dukung atau panik duluan?,Pacaran,Deep"
+        "No":  "140",
+        "Pertanyaan":  "Kalau aku tiba-tiba mutusin resign dan bikin startup dari nol kamu bakal dukung atau panik duluan?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "141,Apa hal terbodoh yang pernah kita ketawain bareng sampai perut sakit?,Pacaran,Fun"
+        "No":  "141",
+        "Pertanyaan":  "Apa hal terbodoh yang pernah kita ketawain bareng sampai perut sakit?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "142,Would you rather: Selalu pakai baju couple ke mana-mana atau nggak pernah boleh post foto berdua di sosmed?,Pacaran,Random"
+        "No":  "142",
+        "Pertanyaan":  "Would you rather: Selalu pakai baju couple ke mana-mana atau nggak pernah boleh post foto berdua di sosmed?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "143,Kalau kita dikasih waktu 48 jam buat bikin project kolaborasi kita bakal bikin apa?,Pacaran,Random"
+        "No":  "143",
+        "Pertanyaan":  "Kalau kita dikasih waktu 48 jam buat bikin project kolaborasi kita bakal bikin apa?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "144,Apa pendapatmu soal punya tabungan bersama sebelum menikah?,Pacaran,Deep"
+        "No":  "144",
+        "Pertanyaan":  "Apa pendapatmu soal punya tabungan bersama sebelum menikah?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "145,What if anak kita nanti sifatnya plek-ketiplek kayak aku kamu bakal stres atau bangga?,Pacaran,Random"
+        "No":  "145",
+        "Pertanyaan":  "What if anak kita nanti sifatnya plek-ketiplek kayak aku kamu bakal stres atau bangga?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "146,Kalau hubungan kita diibaratkan portofolio investasi kita ini tipe yang high risk-high return atau slow but steady?,Pacaran,Deep"
+        "No":  "146",
+        "Pertanyaan":  "Kalau hubungan kita diibaratkan portofolio investasi kita ini tipe yang high risk-high return atau slow but steady?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "147,Menurutmu love language mana dari aku yang paling kerasa efeknya buat kamu?,Pacaran,Deep"
+        "No":  "147",
+        "Pertanyaan":  "Menurutmu love language mana dari aku yang paling kerasa efeknya buat kamu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "148,Apa kebohongan putih (white lie) yang pernah kamu bilang ke aku demi ngejaga perasaanku?,Pacaran,Deep"
+        "No":  "148",
+        "Pertanyaan":  "Apa kebohongan putih (white lie) yang pernah kamu bilang ke aku demi ngejaga perasaanku?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "149,Kalau lagi stres kerjaan kamu lebih suka aku kasih solusi atau cuma dengerin aja sambil nyuapin makanan?,Pacaran,Fun"
+        "No":  "149",
+        "Pertanyaan":  "Kalau lagi stres kerjaan kamu lebih suka aku kasih solusi atau cuma dengerin aja sambil nyuapin makanan?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "150,Would you rather: Kita ngadopsi 5 kucing sekaligus atau nggak boleh pelihara hewan seumur hidup?,Pacaran,Random"
+        "No":  "150",
+        "Pertanyaan":  "Would you rather: Kita ngadopsi 5 kucing sekaligus atau nggak boleh pelihara hewan seumur hidup?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "151,Apa tradisi unik yang pengen banget kamu ciptakan di keluarga kecil kita nanti?,Pacaran,Deep"
+        "No":  "151",
+        "Pertanyaan":  "Apa tradisi unik yang pengen banget kamu ciptakan di keluarga kecil kita nanti?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "152,Kalau kita terdampar di pulau terpencil siapa yang bakal nangis duluan dan siapa yang bikin api?,Pacaran,Random"
+        "No":  "152",
+        "Pertanyaan":  "Kalau kita terdampar di pulau terpencil siapa yang bakal nangis duluan dan siapa yang bikin api?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "153,Sebutkan satu hal yang aku suka banget padahal menurutmu itu aneh!,Pacaran,Fun"
+        "No":  "153",
+        "Pertanyaan":  "Sebutkan satu hal yang aku suka banget padahal menurutmu itu aneh!",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "154,Gimana caramu tahu kalau aku lagi marah padahal aku billing nggak apa-apa?,Pacaran,Deep"
+        "No":  "154",
+        "Pertanyaan":  "Gimana caramu tahu kalau aku lagi marah padahal aku billing nggak apa-apa?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "155,What if mantan dari masa lalu tiba-tiba reach out buat minta maaf apa reaksimu dan harapanmu ke aku?,Pacaran,Deep"
+        "No":  "155",
+        "Pertanyaan":  "What if mantan dari masa lalu tiba-tiba reach out buat minta maaf apa reaksimu dan harapanmu ke aku?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "156,Menurutmu batas antara cemburu wajar dan cemburu toxic di hubungan kita itu di mana?,Pacaran,Deep"
+        "No":  "156",
+        "Pertanyaan":  "Menurutmu batas antara cemburu wajar dan cemburu toxic di hubungan kita itu di mana?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "157,Kalau dikasih kesempatan buat hapus satu memori buruk selama kita pacaran apa yang kamu hapus?,Pacaran,Deep"
+        "No":  "157",
+        "Pertanyaan":  "Kalau dikasih kesempatan buat hapus satu memori buruk selama kita pacaran apa yang kamu hapus?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "158,Lebih suka kita diskusi soal masa depan pas lagi makan malam romantis atau pas lagi random rebahan?,Pacaran,Fun"
+        "No":  "158",
+        "Pertanyaan":  "Lebih suka kita diskusi soal masa depan pas lagi makan malam romantis atau pas lagi random rebahan?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "159,Apa resolusi terbesarmu untuk dirimu sendiri sebelum kita melangkah ke jenjang selanjutnya?,Pacaran,Deep"
+        "No":  "159",
+        "Pertanyaan":  "Apa resolusi terbesarmu untuk dirimu sendiri sebelum kita melangkah ke jenjang selanjutnya?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "160,Would you rather: Punya mertua yang beda pandangan politik atau beda selera humor banget?,Pacaran,Random"
+        "No":  "160",
+        "Pertanyaan":  "Would you rather: Punya mertua yang beda pandangan politik atau beda selera humor banget?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "161,Kalau cinta kita itu baterai HP menurutmu sekarang persentasenya ada di angka berapa?,Pacaran,Random"
+        "No":  "161",
+        "Pertanyaan":  "Kalau cinta kita itu baterai HP menurutmu sekarang persentasenya ada di angka berapa?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "162,Menurutmu siapa dari kita yang lebih gampang panik kalau ada keadaan darurat?,Pacaran,Fun"
+        "No":  "162",
+        "Pertanyaan":  "Menurutmu siapa dari kita yang lebih gampang panik kalau ada keadaan darurat?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "163,Apa satu skill yang kamu harap aku punya biar hidup kita lebih gampang?,Pacaran,Deep"
+        "No":  "163",
+        "Pertanyaan":  "Apa satu skill yang kamu harap aku punya biar hidup kita lebih gampang?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "164,Kalau kamu bisa pinjem otakku selama sehari apa yang mau kamu lihat duluan?,Pacaran,Random"
+        "No":  "164",
+        "Pertanyaan":  "Kalau kamu bisa pinjem otakku selama sehari apa yang mau kamu lihat duluan?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "165,What if kita berdua dipaksa ikut audisi nyanyi berdua lagu apa yang paling aman kita bawain?,Pacaran,Fun"
+        "No":  "165",
+        "Pertanyaan":  "What if kita berdua dipaksa ikut audisi nyanyi berdua lagu apa yang paling aman kita bawain?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "166,Apa hal yang paling bikin kamu bersyukur punya aku di saat kondisi lagi down?,Pacaran,Deep"
+        "No":  "166",
+        "Pertanyaan":  "Apa hal yang paling bikin kamu bersyukur punya aku di saat kondisi lagi down?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "167,Menurutmu kalau nanti kita nikah siapa yang bakal lebih dominan ngatur dekorasi rumah?,Pacaran,Fun"
+        "No":  "167",
+        "Pertanyaan":  "Menurutmu kalau nanti kita nikah siapa yang bakal lebih dominan ngatur dekorasi rumah?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "168,Would you rather: Aku jago banget masak tapi nggak mau nyuci piring atau aku selalu beresin rumah tapi kita selalu beli makan di luar?,Pacaran,Random"
+        "No":  "168",
+        "Pertanyaan":  "Would you rather: Aku jago banget masak tapi nggak mau nyuci piring atau aku selalu beresin rumah tapi kita selalu beli makan di luar?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "169,Kalau hubungan kita punya soundtrack resmi lagu apa yang jadi main theme-nya?,Pacaran,Fun"
+        "No":  "169",
+        "Pertanyaan":  "Kalau hubungan kita punya soundtrack resmi lagu apa yang jadi main theme-nya?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "170,Apa hal yang paling sering bikin kita beda pendapat tapi ujung-ujungnya bikin kita makin ngerti satu sama lain?,Pacaran,Deep"
+        "No":  "170",
+        "Pertanyaan":  "Apa hal yang paling sering bikin kita beda pendapat tapi ujung-ujungnya bikin kita makin ngerti satu sama lain?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "171,Pernah ngerasa insecure sama mantanku nggak?,Pacaran,Deep"
+        "No":  "171",
+        "Pertanyaan":  "Pernah ngerasa insecure sama mantanku nggak?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "172,Kalau kita lagi main game co-op kamu tipe yang support aku atau yang maju duluan ninggalin aku?,Pacaran,Random"
+        "No":  "172",
+        "Pertanyaan":  "Kalau kita lagi main game co-op kamu tipe yang support aku atau yang maju duluan ninggalin aku?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "173,Seberapa penting arti me time buat kamu waktu kita udah komitmen penuh nanti?,Pacaran,Deep"
+        "No":  "173",
+        "Pertanyaan":  "Seberapa penting arti me time buat kamu waktu kita udah komitmen penuh nanti?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "174,What if salah satu dari kita tiba-tiba hilang ingatan apa memori pertama yang mau kamu ceritain biar aku ingat kamu?,Pacaran,Deep"
+        "No":  "174",
+        "Pertanyaan":  "What if salah satu dari kita tiba-tiba hilang ingatan apa memori pertama yang mau kamu ceritain biar aku ingat kamu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "175,Menurutmu apa mengelola konflik kita sekarang udah cukup dewasa atau masih ada yang gaya bocah?,Pacaran,Deep"
+        "No":  "175",
+        "Pertanyaan":  "Menurutmu apa mengelola konflik kita sekarang udah cukup dewasa atau masih ada yang gaya bocah?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "176,Kalau disuruh ngulang masa PDKT kita ada yang mau kamu ganti strateginya nggak?,Pacaran,Fun"
+        "No":  "176",
+        "Pertanyaan":  "Kalau disuruh ngulang masa PDKT kita ada yang mau kamu ganti strateginya nggak?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "177,Mending ngabisin uang tabungan nikah buat resepsi mewah sehari atau buat DP rumah dan honeymoon sebulan?,Pacaran,Deep"
+        "No":  "177",
+        "Pertanyaan":  "Mending ngabisin uang tabungan nikah buat resepsi mewah sehari atau buat DP rumah dan honeymoon sebulan?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "178,Apa pet name (panggilan sayang) paling alay yang sebenernya pengen kamu pakai tapi malu?,Pacaran,Fun"
+        "No":  "178",
+        "Pertanyaan":  "Apa pet name (panggilan sayang) paling alay yang sebenernya pengen kamu pakai tapi malu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "179,Kalau disuruh milih mending kita selalu sehati milih tempat makan tapi beda selera film atau sehati soal film tapi selalu ribut mau makan di mana?,Pacaran,Random"
+        "No":  "179",
+        "Pertanyaan":  "Kalau disuruh milih mending kita selalu sehati milih tempat makan tapi beda selera film atau sehati soal film tapi selalu ribut mau makan di mana?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "180,Apa yang bikin kamu yakin kalau aku ini the one?,Pacaran,Deep"
+        "No":  "180",
+        "Pertanyaan":  "Apa yang bikin kamu yakin kalau aku ini the one?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "181,Would you rather: Mengetahui masa depanku secara detail atau biarkan semuanya jadi kejutan?,Pacaran,Random"
+        "No":  "181",
+        "Pertanyaan":  "Would you rather: Mengetahui masa depanku secara detail atau biarkan semuanya jadi kejutan?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "182,Kalau aku ngilang seharian nggak ada kabar skenario terburuk apa yang ada di kepalamu?,Pacaran,Deep"
+        "No":  "182",
+        "Pertanyaan":  "Kalau aku ngilang seharian nggak ada kabar skenario terburuk apa yang ada di kepalamu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "183,Apa kebiasaanku di sosmed yang diam-diam bikin kamu bangga?,Pacaran,Fun"
+        "No":  "183",
+        "Pertanyaan":  "Apa kebiasaanku di sosmed yang diam-diam bikin kamu bangga?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "184,Kalau kita harus mendefinisikan ulang aturan dating kita bulan ini aturan baru apa yang mau ditambah?,Pacaran,Fun"
+        "No":  "184",
+        "Pertanyaan":  "Kalau kita harus mendefinisikan ulang aturan dating kita bulan ini aturan baru apa yang mau ditambah?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "185,What if besok kita menang lotre 10 Miliar masih mau kerja kantoran atau langsung pensiun dini buka usaha?,Pacaran,Random"
+        "No":  "185",
+        "Pertanyaan":  "What if besok kita menang lotre 10 Miliar masih mau kerja kantoran atau langsung pensiun dini buka usaha?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "186,Apa hal yang menurutmu paling aku banget yang nggak bisa ditiru orang lain?,Pacaran,Deep"
+        "No":  "186",
+        "Pertanyaan":  "Apa hal yang menurutmu paling aku banget yang nggak bisa ditiru orang lain?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "187,Lebih milih punya pasangan yang karirnya stabil tapi sibuk banget atau karirnya biasa aja tapi selalu ada waktu?,Pacaran,Deep"
+        "No":  "187",
+        "Pertanyaan":  "Lebih milih punya pasangan yang karirnya stabil tapi sibuk banget atau karirnya biasa aja tapi selalu ada waktu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "188,Menurutmu siapa yang bakal jadi good cop dan bad cop kalau kita punya anak nanti?,Pacaran,Fun"
+        "No":  "188",
+        "Pertanyaan":  "Menurutmu siapa yang bakal jadi good cop dan bad cop kalau kita punya anak nanti?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "189,Kalau disuruh menilai caraku ngatur emosi dari 1-10 ada di angka berapa?,Pacaran,Deep"
+        "No":  "189",
+        "Pertanyaan":  "Kalau disuruh menilai caraku ngatur emosi dari 1-10 ada di angka berapa?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "190,Would you rather: Kita berdua bisa baca pikiran satu sama lain selama seminggu atau nggak bisa ngomong dan cuma pakai bahasa isyarat seminggu?,Pacaran,Random"
+        "No":  "190",
+        "Pertanyaan":  "Would you rather: Kita berdua bisa baca pikiran satu sama lain selama seminggu atau nggak bisa ngomong dan cuma pakai bahasa isyarat seminggu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "191,Apa janji masa depan yang paling pengen kamu penuhi buat aku?,Pacaran,Deep"
+        "No":  "191",
+        "Pertanyaan":  "Apa janji masa depan yang paling pengen kamu penuhi buat aku?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "192,Kalau kita time travel ke masa depan 10 tahun dari sekarang kamu harap kita lagi ngapain pas dilihat?,Pacaran,Deep"
+        "No":  "192",
+        "Pertanyaan":  "Kalau kita time travel ke masa depan 10 tahun dari sekarang kamu harap kita lagi ngapain pas dilihat?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "193,Menurutmu apa satu kata yang menggambarkan cara kita nyelesaiin masalah?,Pacaran,Deep"
+        "No":  "193",
+        "Pertanyaan":  "Menurutmu apa satu kata yang menggambarkan cara kita nyelesaiin masalah?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "194,What if aku besok tiba-tiba resign tanpa rencana apa kalimat pertamamu?,Pacaran,Deep"
+        "No":  "194",
+        "Pertanyaan":  "What if aku besok tiba-tiba resign tanpa rencana apa kalimat pertamamu?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "195,Apa hadiah pemberianku yang paling kamu simpan rapi sampai sekarang?,Pacaran,Fun"
+        "No":  "195",
+        "Pertanyaan":  "Apa hadiah pemberianku yang paling kamu simpan rapi sampai sekarang?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "196,Kalau kita harus pindah ke negara yang bahasanya nggak kita ngerti sama sekali kita bakal survive nggak?,Pacaran,Random"
+        "No":  "196",
+        "Pertanyaan":  "Kalau kita harus pindah ke negara yang bahasanya nggak kita ngerti sama sekali kita bakal survive nggak?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "197,Menurutmu apa tantangan terbesar kita dalam 1 tahun ke depan?,Pacaran,Deep"
+        "No":  "197",
+        "Pertanyaan":  "Menurutmu apa tantangan terbesar kita dalam 1 tahun ke depan?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "198,Mending kamu yang glow up sendirian atau kita berdua glow up tapi butuh waktu 5 tahun?,Pacaran,Fun"
+        "No":  "198",
+        "Pertanyaan":  "Mending kamu yang glow up sendirian atau kita berdua glow up tapi butuh waktu 5 tahun?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "199,Apa rahasia kecilmu yang baru sekarang kamu mau ceritain ke aku?,Pacaran,Random"
+        "No":  "199",
+        "Pertanyaan":  "Apa rahasia kecilmu yang baru sekarang kamu mau ceritain ke aku?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "200,Dari semua fase yang udah kita lewatin fase mana yang bikin kamu paling jatuh cinta?,Pacaran,Deep"
+        "No":  "200",
+        "Pertanyaan":  "Dari semua fase yang udah kita lewatin fase mana yang bikin kamu paling jatuh cinta?",
+        "Fase":  "Pacaran",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "201,Hari ini apa satu hal kecil yang bikin kamu senyum di tengah pusingnya kerjaan kantoran?,Menikah,Deep"
+        "No":  "201",
+        "Pertanyaan":  "Hari ini apa satu hal kecil yang bikin kamu senyum di tengah pusingnya kerjaan kantoran?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "202,Kalau kementerian rumah tangga kita bikin kebijakan baru bulan ini kebijakan apa yang harus disahkan?,Menikah,Fun"
+        "No":  "202",
+        "Pertanyaan":  "Kalau kementerian rumah tangga kita bikin kebijakan baru bulan ini kebijakan apa yang harus disahkan?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "203,What if nanti kalau udah tua kita dua-duanya pelupa siapa yang bakal ngingetin jadwal minum obat?,Menikah,Random"
+        "No":  "203",
+        "Pertanyaan":  "What if nanti kalau udah tua kita dua-duanya pelupa siapa yang bakal ngingetin jadwal minum obat?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "204,Coba kasih rating 1-10 buat performance aku sebagai pasangan hidup minggu ini dan apa evaluasinya?,Menikah,Deep"
+        "No":  "204",
+        "Pertanyaan":  "Coba kasih rating 1-10 buat performance aku sebagai pasangan hidup minggu ini dan apa evaluasinya?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "205,Sebutkan satu hal dari masa pacaran kita yang pengen kamu bawa lagi ke rutinitas kita sekarang!,Menikah,Fun"
+        "No":  "205",
+        "Pertanyaan":  "Sebutkan satu hal dari masa pacaran kita yang pengen kamu bawa lagi ke rutinitas kita sekarang!",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "206,Kalau kucing peliharaan kita bisa nulis laporan harian tentang kita kira-kira apa isi laporannya hari ini?,Menikah,Random"
+        "No":  "206",
+        "Pertanyaan":  "Kalau kucing peliharaan kita bisa nulis laporan harian tentang kita kira-kira apa isi laporannya hari ini?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "207,Would you rather: Kita tua nanti jadi kakek nenek yang fashionable banget atau yang sporty suka mendaki gunung?,Menikah,Fun"
+        "No":  "207",
+        "Pertanyaan":  "Would you rather: Kita tua nanti jadi kakek nenek yang fashionable banget atau yang sporty suka mendaki gunung?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "208,Apa yang paling bikin kamu bersyukur pas kamu buka mata di sebelahku pagi ini?,Menikah,Deep"
+        "No":  "208",
+        "Pertanyaan":  "Apa yang paling bikin kamu bersyukur pas kamu buka mata di sebelahku pagi ini?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "209,Kalau disuruh kabur dari rutinitas selama 24 jam tanpa gadget kamu mau ngajak aku ke mana?,Menikah,Fun"
+        "No":  "209",
+        "Pertanyaan":  "Kalau disuruh kabur dari rutinitas selama 24 jam tanpa gadget kamu mau ngajak aku ke mana?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "210,Menurutmu kita ini sekarang lagi ada di bab judul apa di buku pernikahan kita?,Menikah,Deep"
+        "No":  "210",
+        "Pertanyaan":  "Menurutmu kita ini sekarang lagi ada di bab judul apa di buku pernikahan kita?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "211,Kalau ada penghargaan Pasangan Paling Sabar Abad Ini kira-kira kita menang nominasi apa?,Menikah,Fun"
+        "No":  "211",
+        "Pertanyaan":  "Kalau ada penghargaan Pasangan Paling Sabar Abad Ini kira-kira kita menang nominasi apa?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "212,Coba jujur seberapa sering kamu pura-pura tidur pas aku minta tolong ambilin minum malam-malam?,Menikah,Random"
+        "No":  "212",
+        "Pertanyaan":  "Coba jujur seberapa sering kamu pura-pura tidur pas aku minta tolong ambilin minum malam-malam?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "213,What if kita pensiun besok kamu mau kita tinggal di tengah kota yang cerdas atau desa pinggir laut yang tenang?,Menikah,Deep"
+        "No":  "213",
+        "Pertanyaan":  "What if kita pensiun besok kamu mau kita tinggal di tengah kota yang cerdas atau desa pinggir laut yang tenang?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "214,Apa kebiasaan ngorok/tidurku yang diam-diam bikin kamu ketawa atau malah pengen nutup pakai bantal?,Menikah,Random"
+        "No":  "214",
+        "Pertanyaan":  "Apa kebiasaan ngorok/tidurku yang diam-diam bikin kamu ketawa atau malah pengen nutup pakai bantal?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "215,Kalau kita disuruh bikin database memori indah kita kejadian apa yang jadi row nomor satu?,Menikah,Deep"
+        "No":  "215",
+        "Pertanyaan":  "Kalau kita disuruh bikin database memori indah kita kejadian apa yang jadi row nomor satu?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "216,Menurutmu cara kita quality time sekarang udah cukup atau perlu di-inovasi lagi?,Menikah,Deep"
+        "No":  "216",
+        "Pertanyaan":  "Menurutmu cara kita quality time sekarang udah cukup atau perlu di-inovasi lagi?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "217,Would you rather: Selalu berdebat tiap nentuin menu makan malam atau makan menu yang sama tiap hari selama setahun?,Menikah,Random"
+        "No":  "217",
+        "Pertanyaan":  "Would you rather: Selalu berdebat tiap nentuin menu makan malam atau makan menu yang sama tiap hari selama setahun?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "218,Apa satu hal yang kamu harap aku lebih peka tanpa kamu harus ngomong duluan?,Menikah,Deep"
+        "No":  "218",
+        "Pertanyaan":  "Apa satu hal yang kamu harap aku lebih peka tanpa kamu harus ngomong duluan?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "219,Kalau aku tiba-tiba pengen ikut kelas merajut atau bikin keramik kamu mau ikutan nemenin nggak?,Menikah,Fun"
+        "No":  "219",
+        "Pertanyaan":  "Kalau aku tiba-tiba pengen ikut kelas merajut atau bikin keramik kamu mau ikutan nemenin nggak?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "220,Sebutkan momen di minggu ini yang bikin kamu ngerasa gila aku sayang banget sama dia!,Menikah,Deep"
+        "No":  "220",
+        "Pertanyaan":  "Sebutkan momen di minggu ini yang bikin kamu ngerasa gila aku sayang banget sama dia!",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "221,Apa fantasi liarmu soal project renovasi rumah kita nanti?,Menikah,Fun"
+        "No":  "221",
+        "Pertanyaan":  "Apa fantasi liarmu soal project renovasi rumah kita nanti?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "222,Kalau nanti kita udah keriput apa panggilan sayang yang cocok buat kita?,Menikah,Fun"
+        "No":  "222",
+        "Pertanyaan":  "Kalau nanti kita udah keriput apa panggilan sayang yang cocok buat kita?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "223,What if ada mesin waktu dan kamu bisa ngelihat anak/cucu kita 50 tahun lagi mau lihat nggak?,Menikah,Random"
+        "No":  "223",
+        "Pertanyaan":  "What if ada mesin waktu dan kamu bisa ngelihat anak/cucu kita 50 tahun lagi mau lihat nggak?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "224,Menurutmu beban kerja atau beban pekerjaan rumah yang paling sering memicu emosi akhir-akhir ini? Gimana kita perbaikinya?,Menikah,Deep"
+        "No":  "224",
+        "Pertanyaan":  "Menurutmu beban kerja atau beban pekerjaan rumah yang paling sering memicu emosi akhir-akhir ini? Gimana kita perbaikinya?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "225,Apa godaan terbesar dalam menjaga komunikasi kita pas lagi sama-sama repot?,Menikah,Deep"
+        "No":  "225",
+        "Pertanyaan":  "Apa godaan terbesar dalam menjaga komunikasi kita pas lagi sama-sama repot?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "226,Would you rather: Gaji bulanan kita dikelola AI secara otomatis atau kita hitung bareng manual pakai Excel sambil ngopi?,Menikah,Random"
+        "No":  "226",
+        "Pertanyaan":  "Would you rather: Gaji bulanan kita dikelola AI secara otomatis atau kita hitung bareng manual pakai Excel sambil ngopi?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "227,Kalau aku tiba-tiba ngerasa kehilangan spark di hubungan kita apa jurus rahasiamu buat nyalain lagi?,Menikah,Deep"
+        "No":  "227",
+        "Pertanyaan":  "Kalau aku tiba-tiba ngerasa kehilangan spark di hubungan kita apa jurus rahasiamu buat nyalain lagi?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "228,Menurutmu kebiasaan ngirit atau kebiasaan boros siapa yang paling berdampak ke dompet keluarga sekarang?,Menikah,Deep"
+        "No":  "228",
+        "Pertanyaan":  "Menurutmu kebiasaan ngirit atau kebiasaan boros siapa yang paling berdampak ke dompet keluarga sekarang?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "229,Hal apa dari caraku ngurus rumah yang sering kamu puji diam-diam di dalam hati?,Menikah,Fun"
+        "No":  "229",
+        "Pertanyaan":  "Hal apa dari caraku ngurus rumah yang sering kamu puji diam-diam di dalam hati?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "230,Kalau kamu dapet jatah cuti panjang di luar tanggungan mau pakai buat keliling dunia berdua atau leyeh-leyeh di rumah sebulan penuh?,Menikah,Fun"
+        "No":  "230",
+        "Pertanyaan":  "Kalau kamu dapet jatah cuti panjang di luar tanggungan mau pakai buat keliling dunia berdua atau leyeh-leyeh di rumah sebulan penuh?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "231,What if kita harus pindah profesi jadi petani siapa yang nyangkul dan siapa yang jual hasil panennya?,Menikah,Random"
+        "No":  "231",
+        "Pertanyaan":  "What if kita harus pindah profesi jadi petani siapa yang nyangkul dan siapa yang jual hasil panennya?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "232,Apa kecemasanmu soal masa depan keluarga kita yang belum pernah kamu ceritain?,Menikah,Deep"
+        "No":  "232",
+        "Pertanyaan":  "Apa kecemasanmu soal masa depan keluarga kita yang belum pernah kamu ceritain?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "233,Kalau disuruh mendeskripsikan rumah kita tanpa menyebut bangunan fisik kamu bilangnya apa?,Menikah,Deep"
+        "No":  "233",
+        "Pertanyaan":  "Kalau disuruh mendeskripsikan rumah kita tanpa menyebut bangunan fisik kamu bilangnya apa?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "234,Coba tebak apa yang lagi aku pikirin sekarang dari tatapan mataku?,Menikah,Fun"
+        "No":  "234",
+        "Pertanyaan":  "Coba tebak apa yang lagi aku pikirin sekarang dari tatapan mataku?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "235,Would you rather: Hubungan ranjang kita biasa aja tapi ngobrolnya nyambung banget atau sebaliknya?,Menikah,Deep"
+        "No":  "235",
+        "Pertanyaan":  "Would you rather: Hubungan ranjang kita biasa aja tapi ngobrolnya nyambung banget atau sebaliknya?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "236,Sebutkan satu hal yang aku korbankan buat hubungan ini yang bikin kamu sangat menghargainya?,Menikah,Deep"
+        "No":  "236",
+        "Pertanyaan":  "Sebutkan satu hal yang aku korbankan buat hubungan ini yang bikin kamu sangat menghargainya?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "237,Kalau nanti kita jadi kakek-nenek kamu mau kita dipanggil apa sama cucu?,Menikah,Fun"
+        "No":  "237",
+        "Pertanyaan":  "Kalau nanti kita jadi kakek-nenek kamu mau kita dipanggil apa sama cucu?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "238,Apa topik obrolan yang menurutmu paling asik pas kita lagi di mobil/perjalanan jauh?,Menikah,Fun"
+        "No":  "238",
+        "Pertanyaan":  "Apa topik obrolan yang menurutmu paling asik pas kita lagi di mobil/perjalanan jauh?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "239,What if kita diundang masuk podcast pernikahan apa tips utama yang bakal kita kasih ke pasangan muda?,Menikah,Deep"
+        "No":  "239",
+        "Pertanyaan":  "What if kita diundang masuk podcast pernikahan apa tips utama yang bakal kita kasih ke pasangan muda?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "240,Kalau disuruh roleplay jadi orang asing yang baru kenal di bar/cafe kamu mau pakai nama samaran siapa malam ini?,Menikah,Random"
+        "No":  "240",
+        "Pertanyaan":  "Kalau disuruh roleplay jadi orang asing yang baru kenal di bar/cafe kamu mau pakai nama samaran siapa malam ini?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "241,Menurutmu apa satu kata sifat yang paling menggambarkan Kita saat ini?,Menikah,Deep"
+        "No":  "241",
+        "Pertanyaan":  "Menurutmu apa satu kata sifat yang paling menggambarkan Kita saat ini?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "242,Apa hal yang paling menyebalkan tapi lucunya minta ampun yang terjadi di rumah minggu ini?,Menikah,Fun"
+        "No":  "242",
+        "Pertanyaan":  "Apa hal yang paling menyebalkan tapi lucunya minta ampun yang terjadi di rumah minggu ini?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "243,Would you rather: Bangun pagi selalu disiapin sarapan tapi rumah berantakan atau rumah rapi terus tapi harus selalu masak sendiri?,Menikah,Random"
+        "No":  "243",
+        "Pertanyaan":  "Would you rather: Bangun pagi selalu disiapin sarapan tapi rumah berantakan atau rumah rapi terus tapi harus selalu masak sendiri?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "244,Kalau aku lagi burnout parah sama kerjaan/rutinitas tolong ingetin aku tentang apa?,Menikah,Deep"
+        "No":  "244",
+        "Pertanyaan":  "Kalau aku lagi burnout parah sama kerjaan/rutinitas tolong ingetin aku tentang apa?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "245,Apa pencapaian kecil di keluarga kita bulan ini yang patut kita rayain pakai pizza?,Menikah,Fun"
+        "No":  "245",
+        "Pertanyaan":  "Apa pencapaian kecil di keluarga kita bulan ini yang patut kita rayain pakai pizza?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "246,Menurutmu di usia pernikahan ke-10 nanti kita bakal sibuk ngurusin apa?,Menikah,Deep"
+        "No":  "246",
+        "Pertanyaan":  "Menurutmu di usia pernikahan ke-10 nanti kita bakal sibuk ngurusin apa?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "247,What if ada aturan suami istri wajib punya hobi bareng hobi apa yang paling masuk akal buat kita?,Menikah,Fun"
+        "No":  "247",
+        "Pertanyaan":  "What if ada aturan suami istri wajib punya hobi bareng hobi apa yang paling masuk akal buat kita?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "248,Seandainya kamu bisa hire asisten robot buat ngerjain satu tugas rumah seumur hidup tugas apa yang diserahkan?,Menikah,Random"
+        "No":  "248",
+        "Pertanyaan":  "Seandainya kamu bisa hire asisten robot buat ngerjain satu tugas rumah seumur hidup tugas apa yang diserahkan?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "249,Apa hal romantis paling sederhana yang pernah aku lakuin tapi nempel terus di ingatanmu?,Menikah,Deep"
+        "No":  "249",
+        "Pertanyaan":  "Apa hal romantis paling sederhana yang pernah aku lakuin tapi nempel terus di ingatanmu?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "250,Kalau hubungan kita butuh di-update versinya kayak software fitur apa yang ada di patch terbaru ini?,Menikah,Random"
+        "No":  "250",
+        "Pertanyaan":  "Kalau hubungan kita butuh di-update versinya kayak software fitur apa yang ada di patch terbaru ini?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "251,Menurutmu siapa yang bakal lebih jago ngajarin PR matematika anak nanti?,Menikah,Fun"
+        "No":  "251",
+        "Pertanyaan":  "Menurutmu siapa yang bakal lebih jago ngajarin PR matematika anak nanti?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "252,Would you rather: Kita selalu liburan berdua aja tiap tahun atau selalu open house kumpulin keluarga besar di rumah tiap libur?,Menikah,Random"
+        "No":  "252",
+        "Pertanyaan":  "Would you rather: Kita selalu liburan berdua aja tiap tahun atau selalu open house kumpulin keluarga besar di rumah tiap libur?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "253,Apa kebiasaan baruku setelah nikah yang mengejutkan tapi kamu suka?,Menikah,Deep"
+        "No":  "253",
+        "Pertanyaan":  "Apa kebiasaan baruku setelah nikah yang mengejutkan tapi kamu suka?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "254,Kalau kita harus bikin bucket list untuk dilakukan sebelum umur 60 apa nomor satunya?,Menikah,Deep"
+        "No":  "254",
+        "Pertanyaan":  "Kalau kita harus bikin bucket list untuk dilakukan sebelum umur 60 apa nomor satunya?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "255,What if tetangga sebelah rumah berisik banget tiap malam siapa yang bakal maju buat negur?,Menikah,Random"
+        "No":  "255",
+        "Pertanyaan":  "What if tetangga sebelah rumah berisik banget tiap malam siapa yang bakal maju buat negur?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "256,Menurutmu apakah ekspektasi kita soal pernikahan sebelum nikah dan setelah nikah jauh beda?,Menikah,Deep"
+        "No":  "256",
+        "Pertanyaan":  "Menurutmu apakah ekspektasi kita soal pernikahan sebelum nikah dan setelah nikah jauh beda?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "257,Hal apa yang paling kamu khawatirkan kalau kita lagi beda pendapat dan diem-dieman?,Menikah,Deep"
+        "No":  "257",
+        "Pertanyaan":  "Hal apa yang paling kamu khawatirkan kalau kita lagi beda pendapat dan diem-dieman?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "258,Would you rather: Punya anak banyak tapi rezekinya pas-pasan atau childfree tapi kaya raya bisa keliling dunia?,Menikah,Deep"
+        "No":  "258",
+        "Pertanyaan":  "Would you rather: Punya anak banyak tapi rezekinya pas-pasan atau childfree tapi kaya raya bisa keliling dunia?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "259,Kalau aku tiba-tiba pengen adopsi anak anjing padahal kita udah punya kucing apa reaksi pertamamu?,Menikah,Random"
+        "No":  "259",
+        "Pertanyaan":  "Kalau aku tiba-tiba pengen adopsi anak anjing padahal kita udah punya kucing apa reaksi pertamamu?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "260,Apa hal yang pengen kamu lakukan buat aku tapi belum kesampaian karena terhalang waktu/uang?,Menikah,Deep"
+        "No":  "260",
+        "Pertanyaan":  "Apa hal yang pengen kamu lakukan buat aku tapi belum kesampaian karena terhalang waktu/uang?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "261,Menurutmu apa kunci biar kita nggak jadi teman sekamar doang kalau udah kelamaan nikah?,Menikah,Deep"
+        "No":  "261",
+        "Pertanyaan":  "Menurutmu apa kunci biar kita nggak jadi teman sekamar doang kalau udah kelamaan nikah?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "262,Kalau kita bikin kejuaraan lomba rumah tangga kamu bakal dapet medali emas di cabang olahraga apa?,Menikah,Fun"
+        "No":  "262",
+        "Pertanyaan":  "Kalau kita bikin kejuaraan lomba rumah tangga kamu bakal dapet medali emas di cabang olahraga apa?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "263,What if kita di-PHK barengan bulan depan apa contingency plan pertama kita?,Menikah,Deep"
+        "No":  "263",
+        "Pertanyaan":  "What if kita di-PHK barengan bulan depan apa contingency plan pertama kita?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "264,Sebutkan satu momen di mana kamu merasa aku bener-bener jadi pelindung/penjagamu!,Menikah,Deep"
+        "No":  "264",
+        "Pertanyaan":  "Sebutkan satu momen di mana kamu merasa aku bener-bener jadi pelindung/penjagamu!",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "265,Apa hal yang paling bikin kamu lega pas pulang ke rumah dan lihat mukaku?,Menikah,Deep"
+        "No":  "265",
+        "Pertanyaan":  "Apa hal yang paling bikin kamu lega pas pulang ke rumah dan lihat mukaku?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "266,Would you rather: Menghabiskan akhir pekan beres-beres rumah besar sendirian atau tinggal di apartemen studio mungil berdua dempet-dempetan?,Menikah,Random"
+        "No":  "266",
+        "Pertanyaan":  "Would you rather: Menghabiskan akhir pekan beres-beres rumah besar sendirian atau tinggal di apartemen studio mungil berdua dempet-dempetan?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "267,Kalau kita dapet voucer spa gratis buat berdua kamu milih pijat tradisional atau perawatan wajah eksklusif?,Menikah,Fun"
+        "No":  "267",
+        "Pertanyaan":  "Kalau kita dapet voucer spa gratis buat berdua kamu milih pijat tradisional atau perawatan wajah eksklusif?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "268,Apa hal yang paling pengen kamu denger dari aku pas kamu lagi overwhelmed sama tanggung jawab?,Menikah,Deep"
+        "No":  "268",
+        "Pertanyaan":  "Apa hal yang paling pengen kamu denger dari aku pas kamu lagi overwhelmed sama tanggung jawab?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "269,Kalau hari ini adalah hari terakhirku apa pesan terakhir yang bakal kamu bacain buat aku?,Menikah,Deep"
+        "No":  "269",
+        "Pertanyaan":  "Kalau hari ini adalah hari terakhirku apa pesan terakhir yang bakal kamu bacain buat aku?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "270,What if kita mendadak viral di sosmed karena hal lucu menurutmu videonya tentang apa?,Menikah,Random"
+        "No":  "270",
+        "Pertanyaan":  "What if kita mendadak viral di sosmed karena hal lucu menurutmu videonya tentang apa?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "271,Dari skala 1-10 seberapa jago kita nyembunyiin masalah rumah tangga dari mertua?,Menikah,Random"
+        "No":  "271",
+        "Pertanyaan":  "Dari skala 1-10 seberapa jago kita nyembunyiin masalah rumah tangga dari mertua?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "272,Apa pelajaran hidup paling berharga yang kita dapat setelah resmi serumah?,Menikah,Deep"
+        "No":  "272",
+        "Pertanyaan":  "Apa pelajaran hidup paling berharga yang kita dapat setelah resmi serumah?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "273,Would you rather: Kita selalu ngantuk jam 8 malam atau selalu melek sampai jam 3 pagi berdua?,Menikah,Random"
+        "No":  "273",
+        "Pertanyaan":  "Would you rather: Kita selalu ngantuk jam 8 malam atau selalu melek sampai jam 3 pagi berdua?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "274,Kalau kita harus buka bisnis sampingan bareng demi nambah tabungan kita jualan apa?,Menikah,Fun"
+        "No":  "274",
+        "Pertanyaan":  "Kalau kita harus buka bisnis sampingan bareng demi nambah tabungan kita jualan apa?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "275,Menurutmu tradisi pillow talk kita masih kurang deep atau udah pas porsinya?,Menikah,Deep"
+        "No":  "275",
+        "Pertanyaan":  "Menurutmu tradisi pillow talk kita masih kurang deep atau udah pas porsinya?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "276,Apa hal yang diam-diam kamu pelajari dari caraku menghadapi masalah keluarga?,Menikah,Deep"
+        "No":  "276",
+        "Pertanyaan":  "Apa hal yang diam-diam kamu pelajari dari caraku menghadapi masalah keluarga?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "277,What if suatu hari nanti aku minta izin potong rambut super ekstrem bakal kamu bolehin nggak?,Menikah,Random"
+        "No":  "277",
+        "Pertanyaan":  "What if suatu hari nanti aku minta izin potong rambut super ekstrem bakal kamu bolehin nggak?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "278,Kalau kita harus pindah agama/kepercayaan (hipotetis aja) seberapa besar debat yang bakal terjadi?,Menikah,Deep"
+        "No":  "278",
+        "Pertanyaan":  "Kalau kita harus pindah agama/kepercayaan (hipotetis aja) seberapa besar debat yang bakal terjadi?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "279,Hal apa dari orang tuaku yang bersyukur banget nggak nurun ke aku?,Menikah,Deep"
+        "No":  "279",
+        "Pertanyaan":  "Hal apa dari orang tuaku yang bersyukur banget nggak nurun ke aku?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "280,Would you rather: Tukeran peran (aku kerja kamu ngurus rumah/sebaliknya) selama sebulan atau tetap sama tapi load-nya digandakan?,Menikah,Random"
+        "No":  "280",
+        "Pertanyaan":  "Would you rather: Tukeran peran (aku kerja kamu ngurus rumah/sebaliknya) selama sebulan atau tetap sama tapi load-nya digandakan?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "281,Apa harapan terdalammu soal gimana kita saling merawat kalau salah satu dari kita sakit keras?,Menikah,Deep"
+        "No":  "281",
+        "Pertanyaan":  "Apa harapan terdalammu soal gimana kita saling merawat kalau salah satu dari kita sakit keras?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "282,Kalau ada hari Bebas Ngomel Nasional di rumah kita kira-kira rumah bakal sekacau apa?,Menikah,Fun"
+        "No":  "282",
+        "Pertanyaan":  "Kalau ada hari Bebas Ngomel Nasional di rumah kita kira-kira rumah bakal sekacau apa?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "283,What if kita disuruh mengulang hari pernikahan kita ada detail yang mau diubah nggak?,Menikah,Deep"
+        "No":  "283",
+        "Pertanyaan":  "What if kita disuruh mengulang hari pernikahan kita ada detail yang mau diubah nggak?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "284,Menurutmu cinta kita lebih kuat pas lagi senang-senang liburan atau pas lagi pusing bayar cicilan?,Menikah,Deep"
+        "No":  "284",
+        "Pertanyaan":  "Menurutmu cinta kita lebih kuat pas lagi senang-senang liburan atau pas lagi pusing bayar cicilan?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "285,Sebutkan satu momen ngakak parah kita di kasur sebelum tidur?,Menikah,Fun"
+        "No":  "285",
+        "Pertanyaan":  "Sebutkan satu momen ngakak parah kita di kasur sebelum tidur?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "286,Kalau kamu disuruh nulis review tentang aku di aplikasi kencan pasca-nikah apa rating dan ulasannya?,Menikah,Fun"
+        "No":  "286",
+        "Pertanyaan":  "Kalau kamu disuruh nulis review tentang aku di aplikasi kencan pasca-nikah apa rating dan ulasannya?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "287,Would you rather: Selalu lupa naruh kunci rumah atau selalu lupa nyalain alarm pagi?,Menikah,Random"
+        "No":  "287",
+        "Pertanyaan":  "Would you rather: Selalu lupa naruh kunci rumah atau selalu lupa nyalain alarm pagi?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "288,Apa ketakutan yang kamu punya tentang aku yang semakin bertambah umur?,Menikah,Deep"
+        "No":  "288",
+        "Pertanyaan":  "Apa ketakutan yang kamu punya tentang aku yang semakin bertambah umur?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "289,Kalau kita punya safeword pas lagi berantem biar langsung berhenti dan pelukan kata apa yang pas?,Menikah,Random"
+        "No":  "289",
+        "Pertanyaan":  "Kalau kita punya safeword pas lagi berantem biar langsung berhenti dan pelukan kata apa yang pas?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "290,What if anak kita nanti protes soal cara kita mendidik siapa yang bakal lebih defensive?,Menikah,Deep"
+        "No":  "290",
+        "Pertanyaan":  "What if anak kita nanti protes soal cara kita mendidik siapa yang bakal lebih defensive?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "291,Hal apa yang sering aku ingetin ke kamu berkali-kali sampai rasanya kayak kaset rusak?,Menikah,Fun"
+        "No":  "291",
+        "Pertanyaan":  "Hal apa yang sering aku ingetin ke kamu berkali-kali sampai rasanya kayak kaset rusak?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "292,Menurutmu apakah kita udah jadi contoh pasangan yang baik buat orang-orang di sekitar kita?,Menikah,Deep"
+        "No":  "292",
+        "Pertanyaan":  "Menurutmu apakah kita udah jadi contoh pasangan yang baik buat orang-orang di sekitar kita?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "293,Would you rather: Rumah mewah tapi di lingkungan julid atau rumah sederhana di lingkungan super supportive?,Menikah,Random"
+        "No":  "293",
+        "Pertanyaan":  "Would you rather: Rumah mewah tapi di lingkungan julid atau rumah sederhana di lingkungan super supportive?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "294,Kalau kita dikasih libur tambahan besok tanpa rencana apa-apa skenario paling real kita bakal ngapain?,Menikah,Fun"
+        "No":  "294",
+        "Pertanyaan":  "Kalau kita dikasih libur tambahan besok tanpa rencana apa-apa skenario paling real kita bakal ngapain?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "295,Apa hal kecil yang selalu sukses bikin kamu jatuh cinta lagi sama aku walau lagi capek?,Menikah,Deep"
+        "No":  "295",
+        "Pertanyaan":  "Apa hal kecil yang selalu sukses bikin kamu jatuh cinta lagi sama aku walau lagi capek?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "296,What if di masa tua nanti aku nyuruh kamu temenin aku nyelesain game sampai tamat kamu mau?,Menikah,Random"
+        "No":  "296",
+        "Pertanyaan":  "What if di masa tua nanti aku nyuruh kamu temenin aku nyelesain game sampai tamat kamu mau?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Random"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "297,Kalau disuruh mendeskripsikan aroma tubuhku pas bangun tidur mirip apa?,Menikah,Fun"
+        "No":  "297",
+        "Pertanyaan":  "Kalau disuruh mendeskripsikan aroma tubuhku pas bangun tidur mirip apa?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Fun"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "298,Apa investasi non-materi terbaik yang udah kita lakukan buat pernikahan ini?,Menikah,Deep"
+        "No":  "298",
+        "Pertanyaan":  "Apa investasi non-materi terbaik yang udah kita lakukan buat pernikahan ini?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "299,Menurutmu apa kalimat penutup paling perfect sebelum kita tidur tiap malam?,Menikah,Deep"
+        "No":  "299",
+        "Pertanyaan":  "Menurutmu apa kalimat penutup paling perfect sebelum kita tidur tiap malam?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     },
     {
-        "No,Pertanyaan,Fase,Sub-Tag":  "300,Setelah semua obrolan ini apa satu janji yang mau kita buat bareng-bareng hari ini?,Menikah,Deep"
+        "No":  "300",
+        "Pertanyaan":  "Setelah semua obrolan ini apa satu janji yang mau kita buat bareng-bareng hari ini?",
+        "Fase":  "Menikah",
+        "Sub-Tag":  "Deep"
     }
 ]

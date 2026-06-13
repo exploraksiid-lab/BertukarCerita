@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { ThemeWrapper } from './components/ThemeWrapper';
 import { ButtonNeo } from './components/ButtonNeo';
 import { SlotMachine } from './components/SlotMachine';
@@ -14,7 +14,7 @@ interface QuestionData {
   "Sub-Tag": string;
 }
 
-const localQuestions = questionsData as QuestionData[];
+const localQuestions = questionsData as unknown as QuestionData[];
 
 function App() {
   const [phase, setPhase] = useState<string | null>(null);
