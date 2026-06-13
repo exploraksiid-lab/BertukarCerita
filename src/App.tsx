@@ -73,6 +73,20 @@ function App() {
     }, 50);
   };
 
+  const handleDirectCustom = async () => {
+    if (!phase || !nuance || customTopic.trim() === '') return;
+    setIsSpinning(false);
+    setFollowUpQuestions([]);
+    setCurrentQuestion("Sedang memikirkan topik spesifik...");
+    try {
+      const q = await generateCustomQuestion(phase, nuance, customTopic);
+      setCurrentQuestion(q);
+    } catch (error) {
+      console.error("Failed to generate custom question:", error);
+      setCurrentQuestion("Gagal memuat topik dari AI. Pastikan API Key valid!");
+    }
+  };
+
   const handleFollowUp = async () => {
     if (!currentQuestion) return;
     setIsFollowUpLoading(true);
@@ -101,26 +115,28 @@ function App() {
         </p>
       </header>
 
-      <div className="w-full max-w-4xl grid grid-cols-1 md:grid-cols-12 gap-6 items-start relative">
+      <div className="w-full max-w-5xl grid grid-cols-1 md:grid-cols-12 gap-6 items-start relative">
         
-        {/* Playful Hint Arrow */}
-        {(!phase || !nuance) && (
-          <div className="absolute left-[-20px] md:left-[-110px] top-[140px] md:top-[80px] -rotate-12 animate-bounce text-center z-20 pointer-events-none hidden sm:block">
-            <p className="font-bold text-lg bg-[#FFEB3B] text-black border-[3px] border-black px-3 py-1 rounded-xl shadow-[3px_3px_0px_0px_rgba(0,0,0,1)]">
-              👈 Pilih ini dulu!
-            </p>
-          </div>
-        )}
-
         {/* Sidebar Controls */}
-        <div className="md:col-span-4 space-y-4">
+        <div className="md:col-span-5 space-y-4 relative">
+          
+          {/* Playful Hint Arrow */}
+          {(!phase || !nuance) && (
+            <div className="absolute top-[-40px] left-4 animate-bounce text-center z-20 pointer-events-none hidden sm:block">
+              <p className="font-bold text-sm bg-[#FFEB3B] text-black border-[3px] border-black px-3 py-1 rounded-xl shadow-[3px_3px_0px_0px_rgba(0,0,0,1)]">
+                👇 Pilih Fase & Nuansa dulu!
+              </p>
+            </div>
+          )}
+
           <div className="bg-white text-black border-4 border-black neo-shadow p-4 rounded-2xl relative">
             <h2 className="text-xl font-bold mb-3">1. Fase Hubungan</h2>
-            <div className="grid grid-cols-3 gap-2">
+            <div className="flex w-full space-x-2">
               <ButtonNeo 
                 variant="phase" 
                 isActive={phase === 'PDKT'} 
                 onClick={() => setPhase('PDKT')}
+                className="flex-1 px-1 text-sm md:text-base"
               >
                 PDKT
               </ButtonNeo>
@@ -128,6 +144,7 @@ function App() {
                 variant="phase" 
                 isActive={phase === 'Pacaran'} 
                 onClick={() => setPhase('Pacaran')}
+                className="flex-1 px-1 text-sm md:text-base"
               >
                 Pacaran
               </ButtonNeo>
@@ -135,6 +152,7 @@ function App() {
                 variant="phase" 
                 isActive={phase === 'Menikah'} 
                 onClick={() => setPhase('Menikah')}
+                className="flex-1 px-1 text-sm md:text-base"
               >
                 Menikah
               </ButtonNeo>
@@ -143,12 +161,12 @@ function App() {
 
           <div className="bg-white text-black border-4 border-black neo-shadow p-4 rounded-2xl">
             <h2 className="text-xl font-bold mb-3">2. Nuansa Obrolan</h2>
-            <div className="grid grid-cols-3 gap-2">
+            <div className="flex w-full space-x-2">
               <ButtonNeo 
                 variant="phase" 
                 isActive={nuance === 'Fun'} 
                 onClick={() => setNuance('Fun')}
-                className="px-1"
+                className="flex-1 px-1 text-sm md:text-base"
               >
                 Fun
               </ButtonNeo>
@@ -156,7 +174,7 @@ function App() {
                 variant="phase" 
                 isActive={nuance === 'Deep'} 
                 onClick={() => setNuance('Deep')}
-                className="px-1"
+                className="flex-1 px-1 text-sm md:text-base"
               >
                 Deep
               </ButtonNeo>
@@ -164,7 +182,7 @@ function App() {
                 variant="phase" 
                 isActive={nuance === 'Random'} 
                 onClick={() => setNuance('Random')}
-                className="px-0 text-[13px]"
+                className="flex-1 px-0 text-[13px] md:text-base"
               >
                 Random
               </ButtonNeo>
@@ -180,21 +198,29 @@ function App() {
               {isCustomOpen ? <ChevronUp size={24} /> : <ChevronDown size={24} />}
             </button>
             {isCustomOpen && (
-              <div className="p-4 bg-white border-t-4 border-black">
+              <div className="p-4 bg-white border-t-4 border-black flex flex-col space-y-3">
                 <input 
                   type="text" 
                   value={customTopic}
                   onChange={(e) => setCustomTopic(e.target.value)}
                   placeholder="Misal: Keuangan, Masa Depan..."
-                  className="w-full p-3 border-[3px] border-black rounded-lg font-bold focus:outline-none focus:ring-4 focus:ring-[#06D6A0]"
+                  className="w-full p-2 border-[3px] border-black rounded-lg font-bold text-sm focus:outline-none focus:ring-4 focus:ring-[#06D6A0]"
                 />
+                <ButtonNeo 
+                  variant="primary" 
+                  onClick={handleDirectCustom}
+                  disabled={!phase || !nuance || customTopic.trim() === ''}
+                  className="w-full py-2 text-sm disabled:opacity-50"
+                >
+                  Buat Langsung ⚡
+                </ButtonNeo>
               </div>
             )}
           </div>
         </div>
 
         {/* Main Slot Machine Area */}
-        <div className="md:col-span-8 flex flex-col items-center justify-start z-10">
+        <div className="md:col-span-7 flex flex-col items-center justify-start z-10">
           <SlotMachine 
             isSpinning={isSpinning} 
             result={currentQuestion} 
