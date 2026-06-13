@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .neo-border {
+    @apply border-4 border-black;
+  }
+  .neo-shadow {
+    @apply shadow-[4px_4px_0px_0px_rgba(0,0,0,1)];
+  }
+  .neo-active {
+    @apply active:translate-x-1 active:translate-y-1 active:shadow-none transition-all duration-100;
+  }
+}
+
+body {
+  font-family: 'Shantell Sans', cursive;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  transition: background-color 0.5s ease;
+}
