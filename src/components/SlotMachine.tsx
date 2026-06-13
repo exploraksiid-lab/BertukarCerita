@@ -26,14 +26,14 @@ export const SlotMachine: React.FC<SlotMachineProps> = ({ isSpinning, result, du
     }
   }, [isSpinning, result, dummyTexts]);
 
-  const itemHeight = 200; // Match this with the inner div height
+  const itemHeight = 250; // Match this with the inner div height
 
   return (
-    <div className="w-full max-w-2xl bg-white border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] rounded-[2rem] p-6 md:p-10 my-8 overflow-hidden relative min-h-[200px] flex items-center justify-center">
+    <div className="w-full max-w-2xl bg-white border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] rounded-[2rem] overflow-hidden relative h-[250px] w-full mb-8">
       <div 
         ref={containerRef}
         className={clsx(
-          "w-full text-center transition-transform",
+          "w-full text-center transition-transform absolute top-0 left-0",
           isSpinning ? "duration-[3500ms] ease-[cubic-bezier(0.15,0.85,0.35,1)]" : "duration-0"
         )}
         style={{
@@ -42,13 +42,13 @@ export const SlotMachine: React.FC<SlotMachineProps> = ({ isSpinning, result, du
           willChange: 'transform'
         }}
       >
-        <div className="flex flex-col items-center">
+        <div className="flex flex-col items-center w-full">
           {items.map((text, idx) => (
             <div 
               key={idx} 
-              className="h-[200px] w-full flex items-center justify-center text-2xl md:text-4xl font-bold text-black p-4"
+              className="h-[250px] w-full flex items-center justify-center text-2xl md:text-3xl font-bold text-black p-8"
             >
-              <p className="line-clamp-4">{text}</p>
+              <p className="line-clamp-4 leading-relaxed">{text}</p>
             </div>
           ))}
         </div>

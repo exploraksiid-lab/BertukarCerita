@@ -101,11 +101,11 @@ function App() {
         </p>
       </header>
 
-      <div className="w-full max-w-4xl grid grid-cols-1 md:grid-cols-12 gap-8">
+      <div className="w-full max-w-4xl grid grid-cols-1 md:grid-cols-12 gap-8 items-start">
         
         {/* Sidebar Controls */}
         <div className="md:col-span-4 space-y-6">
-          <div className="bg-white border-4 border-black neo-shadow p-6 rounded-2xl">
+          <div className="bg-white text-black border-4 border-black neo-shadow p-6 rounded-2xl">
             <h2 className="text-2xl font-bold mb-4">1. Fase Hubungan</h2>
             <div className="flex flex-col space-y-3">
               <ButtonNeo 
@@ -132,14 +132,13 @@ function App() {
             </div>
           </div>
 
-          <div className="bg-white border-4 border-black neo-shadow p-6 rounded-2xl">
+          <div className="bg-white text-black border-4 border-black neo-shadow p-6 rounded-2xl">
             <h2 className="text-2xl font-bold mb-4">2. Nuansa Obrolan</h2>
-            <div className="grid grid-cols-3 gap-2">
+            <div className="flex flex-col space-y-3">
               <ButtonNeo 
                 variant="phase" 
                 isActive={nuance === 'Fun'} 
                 onClick={() => setNuance('Fun')}
-                className="px-2"
               >
                 Fun
               </ButtonNeo>
@@ -147,7 +146,6 @@ function App() {
                 variant="phase" 
                 isActive={nuance === 'Deep'} 
                 onClick={() => setNuance('Deep')}
-                className="px-2"
               >
                 Deep
               </ButtonNeo>
@@ -155,14 +153,13 @@ function App() {
                 variant="phase" 
                 isActive={nuance === 'Random'} 
                 onClick={() => setNuance('Random')}
-                className="px-2"
               >
                 Random
               </ButtonNeo>
             </div>
           </div>
 
-          <div className="bg-white border-4 border-black neo-shadow rounded-2xl overflow-hidden">
+          <div className="bg-white text-black border-4 border-black neo-shadow rounded-2xl overflow-hidden">
             <button 
               className="w-full p-4 flex items-center justify-between font-bold text-lg bg-[#FFEB3B] hover:bg-[#FDD835] transition-colors"
               onClick={() => setIsCustomOpen(!isCustomOpen)}
@@ -185,7 +182,7 @@ function App() {
         </div>
 
         {/* Main Slot Machine Area */}
-        <div className="md:col-span-8 flex flex-col items-center justify-center">
+        <div className="md:col-span-8 flex flex-col items-center justify-start">
           <SlotMachine 
             isSpinning={isSpinning} 
             result={currentQuestion} 
