@@ -53,11 +53,9 @@ function App() {
       if (isCustomOpen && customTopic.trim() !== '') {
         try {
           finalQuestion = await generateCustomQuestion(phase, nuance, customTopic);
-        } catch (error) {
+        } catch (error: any) {
           console.error("Failed to generate custom question:", error);
-          // Fallback to local
-          const randIdx = Math.floor(Math.random() * filteredQuestions.length);
-          finalQuestion = filteredQuestions[randIdx]?.Pertanyaan || "Ada masalah teknis, tapi apa kabar harimu?";
+          finalQuestion = `Gagal menggunakan AI: ${error.message || error}`;
         }
       } else {
         const randIdx = Math.floor(Math.random() * filteredQuestions.length);
@@ -81,9 +79,9 @@ function App() {
     try {
       const q = await generateCustomQuestion(phase, nuance, customTopic);
       setCurrentQuestion(q);
-    } catch (error) {
+    } catch (error: any) {
       console.error("Failed to generate custom question:", error);
-      setCurrentQuestion("Gagal memuat topik dari AI. Pastikan API Key valid!");
+      setCurrentQuestion(`Gagal menggunakan AI: ${error.message || error}`);
     }
   };
 
@@ -94,9 +92,9 @@ function App() {
     try {
       const followUps = await generateFollowUpQuestions(currentQuestion);
       setFollowUpQuestions(followUps);
-    } catch (error) {
+    } catch (error: any) {
       console.error("Failed to generate follow up questions:", error);
-      setFollowUpQuestions(["Gagal memuat pertanyaan lanjutan. Coba lagi!"]);
+      setFollowUpQuestions([`Gagal memuat pertanyaan lanjutan: ${error.message || error}`]);
     } finally {
       setIsFollowUpLoading(false);
     }
