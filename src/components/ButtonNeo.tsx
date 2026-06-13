@@ -14,8 +14,8 @@ export const ButtonNeo: React.FC<ButtonNeoProps> = ({
   isActive = false,
   ...props 
 }) => {
-  const baseClass = "px-4 py-2 font-bold transition-all duration-100 ease-in-out border-[3px] border-black rounded-md";
-  const shadowClass = isActive ? "translate-x-1 translate-y-1 shadow-none" : "shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-0.5 hover:shadow-[5px_5px_0px_0px_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none";
+  const baseClass = "px-3 py-1.5 font-bold text-sm md:text-base transition-all duration-100 ease-in-out border-[3px] border-black rounded-lg";
+  const shadowClass = isActive ? "translate-x-1 translate-y-1 shadow-none" : "shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-0.5 hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] active:translate-x-1 active:translate-y-1 active:shadow-none";
   
   let variantClass = "bg-white text-black";
   if (variant === 'primary') variantClass = "bg-[#FFEB3B] text-black";

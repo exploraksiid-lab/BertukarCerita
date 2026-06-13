@@ -7,12 +7,12 @@ interface FloatingParticlesProps {
 
 export const FloatingParticles: React.FC<FloatingParticlesProps> = ({ phase }) => {
   const particles = useMemo(() => {
-    return Array.from({ length: 15 }).map((_, i) => {
-      const isHeart = Math.random() > 0.5;
+    return Array.from({ length: 40 }).map((_, i) => {
+      const isHeart = Math.random() > 0.3; // 70% hearts
       const left = `${Math.random() * 100}%`;
-      const animationDuration = `${Math.random() * 5 + 5}s`;
+      const animationDuration = `${Math.random() * 6 + 6}s`;
       const animationDelay = `${Math.random() * 5}s`;
-      const size = Math.random() * 20 + 20; // 20px to 40px
+      const size = Math.random() * 12 + 10; // 10px to 22px
       return { id: i, isHeart, left, animationDuration, animationDelay, size };
     });
   }, []);

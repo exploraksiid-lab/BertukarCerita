@@ -16,20 +16,18 @@ export const SlotMachine: React.FC<SlotMachineProps> = ({ isSpinning, result, du
       // Create a list of items to scroll through
       const newItems = [...dummyTexts, ...dummyTexts, result || "Mencari topik obrolan seru..."];
       setItems(newItems);
-    } else if (result && items.length > 0) {
-      // Ensure the final item is the result
-      const newItems = [...items];
-      newItems[newItems.length - 1] = result;
-      setItems(newItems);
+    } else if (result) {
+      // Set to single item so translateY(0) shows the final result
+      setItems([result]);
     } else if (!result) {
       setItems(["Siap untuk mulai?"]);
     }
   }, [isSpinning, result, dummyTexts]);
 
-  const itemHeight = 250; // Match this with the inner div height
+  const itemHeight = 180; // Reduced height
 
   return (
-    <div className="w-full max-w-2xl bg-white border-4 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] rounded-[2rem] overflow-hidden relative h-[250px] w-full mb-8">
+    <div className="w-full max-w-2xl bg-white border-4 border-black shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] rounded-[1.5rem] overflow-hidden relative h-[180px] w-full mb-6 z-10">
       <div 
         ref={containerRef}
         className={clsx(
@@ -46,7 +44,7 @@ export const SlotMachine: React.FC<SlotMachineProps> = ({ isSpinning, result, du
           {items.map((text, idx) => (
             <div 
               key={idx} 
-              className="h-[250px] w-full flex items-center justify-center text-2xl md:text-3xl font-bold text-black p-8"
+              className="h-[180px] w-full flex items-center justify-center text-xl md:text-2xl font-bold text-black p-6"
             >
               <p className="line-clamp-4 leading-relaxed">{text}</p>
             </div>

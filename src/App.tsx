@@ -92,22 +92,31 @@ function App() {
 
   return (
     <ThemeWrapper phase={phase}>
-      <header className="mb-8 text-center w-full">
-        <h1 className="text-5xl md:text-7xl font-extrabold tracking-tighter drop-shadow-md">
+      <header className="mb-6 text-center w-full">
+        <h1 className="text-4xl md:text-5xl font-extrabold tracking-tighter drop-shadow-md">
           Bertukar <span className="text-white neo-shadow bg-black px-2 py-1 rounded-md">Cerita</span>
         </h1>
-        <p className="mt-4 text-xl font-bold max-w-lg mx-auto">
+        <p className="mt-3 text-lg font-bold max-w-lg mx-auto">
           Pemantik obrolan asik buat kamu dan pasangan!
         </p>
       </header>
 
-      <div className="w-full max-w-4xl grid grid-cols-1 md:grid-cols-12 gap-8 items-start">
+      <div className="w-full max-w-4xl grid grid-cols-1 md:grid-cols-12 gap-6 items-start relative">
         
+        {/* Playful Hint Arrow */}
+        {(!phase || !nuance) && (
+          <div className="absolute left-[-20px] md:left-[-110px] top-[140px] md:top-[80px] -rotate-12 animate-bounce text-center z-20 pointer-events-none hidden sm:block">
+            <p className="font-bold text-lg bg-[#FFEB3B] text-black border-[3px] border-black px-3 py-1 rounded-xl shadow-[3px_3px_0px_0px_rgba(0,0,0,1)]">
+              👈 Pilih ini dulu!
+            </p>
+          </div>
+        )}
+
         {/* Sidebar Controls */}
-        <div className="md:col-span-4 space-y-6">
-          <div className="bg-white text-black border-4 border-black neo-shadow p-6 rounded-2xl">
-            <h2 className="text-2xl font-bold mb-4">1. Fase Hubungan</h2>
-            <div className="flex flex-col space-y-3">
+        <div className="md:col-span-4 space-y-4">
+          <div className="bg-white text-black border-4 border-black neo-shadow p-4 rounded-2xl relative">
+            <h2 className="text-xl font-bold mb-3">1. Fase Hubungan</h2>
+            <div className="grid grid-cols-3 gap-2">
               <ButtonNeo 
                 variant="phase" 
                 isActive={phase === 'PDKT'} 
@@ -132,13 +141,14 @@ function App() {
             </div>
           </div>
 
-          <div className="bg-white text-black border-4 border-black neo-shadow p-6 rounded-2xl">
-            <h2 className="text-2xl font-bold mb-4">2. Nuansa Obrolan</h2>
-            <div className="flex flex-col space-y-3">
+          <div className="bg-white text-black border-4 border-black neo-shadow p-4 rounded-2xl">
+            <h2 className="text-xl font-bold mb-3">2. Nuansa Obrolan</h2>
+            <div className="grid grid-cols-3 gap-2">
               <ButtonNeo 
                 variant="phase" 
                 isActive={nuance === 'Fun'} 
                 onClick={() => setNuance('Fun')}
+                className="px-1"
               >
                 Fun
               </ButtonNeo>
@@ -146,6 +156,7 @@ function App() {
                 variant="phase" 
                 isActive={nuance === 'Deep'} 
                 onClick={() => setNuance('Deep')}
+                className="px-1"
               >
                 Deep
               </ButtonNeo>
@@ -153,6 +164,7 @@ function App() {
                 variant="phase" 
                 isActive={nuance === 'Random'} 
                 onClick={() => setNuance('Random')}
+                className="px-0 text-[13px]"
               >
                 Random
               </ButtonNeo>
@@ -161,7 +173,7 @@ function App() {
 
           <div className="bg-white text-black border-4 border-black neo-shadow rounded-2xl overflow-hidden">
             <button 
-              className="w-full p-4 flex items-center justify-between font-bold text-lg bg-[#FFEB3B] hover:bg-[#FDD835] transition-colors"
+              className="w-full p-3 flex items-center justify-between font-bold text-base bg-[#FFEB3B] hover:bg-[#FDD835] transition-colors"
               onClick={() => setIsCustomOpen(!isCustomOpen)}
             >
               <span className="flex items-center gap-2"><Sparkles size={20} /> Punya topik khusus?</span>
@@ -182,7 +194,7 @@ function App() {
         </div>
 
         {/* Main Slot Machine Area */}
-        <div className="md:col-span-8 flex flex-col items-center justify-start">
+        <div className="md:col-span-8 flex flex-col items-center justify-start z-10">
           <SlotMachine 
             isSpinning={isSpinning} 
             result={currentQuestion} 
@@ -191,7 +203,7 @@ function App() {
           
           <ButtonNeo 
             variant="primary" 
-            className="text-2xl px-12 py-4 mb-4"
+            className="text-xl md:text-2xl px-10 py-3 mb-4"
             disabled={!isSpinReady}
             onClick={handleSpin}
             style={{ opacity: isSpinReady ? 1 : 0.5, cursor: isSpinReady ? 'pointer' : 'not-allowed' }}
