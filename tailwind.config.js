@@ -8,6 +8,8 @@ export default {
     extend: {
       fontFamily: {
         sans: ['"Shantell Sans"', 'cursive'],
+        "headline-lg": ["Nunito Sans", "sans-serif"],
+        "body-md": ["Nunito Sans", "sans-serif"]
       },
       colors: {
         theme: {
@@ -18,6 +20,15 @@ export default {
           palePink: '#FFF0F3',
           maroon: '#800020',
           softPink: '#FFE5EC',
+        },
+        latihan: {
+          surface: '#fff8f7',
+          'primary-container': '#ffb7c5',
+          'secondary-container': '#fae100',
+          'on-surface': '#201a1b',
+          'primary': '#864e5a',
+          'tertiary': '#FFE600',
+          'brand-pink': '#f49cb0',
         }
       },
       boxShadow: {

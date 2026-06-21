@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Latihan Ngobrol - Bertukar Cerita</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600;700;800;900&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "primary": "#864e5a",
+                        "secondary": "#ff8c42",
+                        "tertiary": "#FFE600",
+                        "brand-pink": "#f49cb0",
+                        "surface": "#ffffff",
+                        "on-surface": "#201a1b",
+                        "background": "#ffffff"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "1.5rem",
+                        "xl": "2rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "margin-desktop": "40px",
+                        "gutter": "24px",
+                        "margin-mobile": "16px"
+                    },
+                    "fontFamily": {
+                        "headline-lg": ["Nunito Sans", "sans-serif"],
+                        "body-md": ["Nunito Sans", "sans-serif"]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .neo-brutal-black {
+            border: 3px solid #000;
+            box-shadow: 6px 6px 0px 0px #000;
+        }
+        .neo-brutal-pink {
+            border: 3px solid #000;
+            box-shadow: 8px 8px 0px 0px #f49cb0;
+        }
+        .neo-brutal-yellow {
+            border: 3px solid #000;
+            box-shadow: 8px 8px 0px 0px #FFE600;
+        }
+        .neo-brutal:active {
+            box-shadow: 2px 2px 0px 0px #000;
+            transform: translate(4px, 4px);
+        }
+        .slot-reel {
+            overflow: hidden;
+            height: 100%;
+            position: relative;
+        }
+        .slot-items {
+            transition: transform 0.1s linear;
+        }
+        details > summary {
+            list-style: none;
+        }
+        details > summary::-webkit-details-marker {
+            display: none;
+        }
+        .bg-pattern {
+            background-color: #ffffff;
+            background-image: radial-gradient(#f49cb0 0.5px, transparent 0.5px), radial-gradient(#f49cb0 0.5px, #ffffff 0.5px);
+            background-size: 20px 20px;
+            background-position: 0 0,10px 10px;
+            background-attachment: fixed;
+            opacity: 0.15;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+    </style>
+</head>
+<body class="bg-white text-on-surface font-body-md min-h-screen flex flex-col antialiased p-margin-mobile md:p-margin-desktop selection:bg-tertiary">
+<div class="bg-pattern"></div>
+<!-- Header -->
+<header class="w-full flex flex-col items-center mb-8">
+<div class="flex items-center gap-2 mb-2">
+<h1 class="text-4xl md:text-6xl font-black text-black italic tracking-tight">Bertukar</h1>
+<div class="bg-black text-white px-6 py-2 rounded-2xl transform -rotate-2">
+<span class="text-4xl md:text-6xl font-black italic tracking-tight">Cerita</span>
+</div>
+</div>
+<p class="text-black/70 font-bold text-center text-lg md:text-xl">Pemantik obrolan asik buat kamu dan teman ngobrol!</p>
+</header>
+<main class="max-w-6xl mx-auto w-full flex flex-col items-center gap-8">
+<!-- New Title Section -->
+<div class="w-full bg-white neo-brutal-black p-4 md:p-6 rounded-2xl text-center">
+<h2 class="text-2xl md:text-4xl font-black uppercase tracking-widest text-black">Latihan Ngobrol</h2>
+<p class="text-sm font-bold italic text-black/60 mt-2">"Obrolan yang baik adalah tentang mendengarkan lebih banyak daripada berbicara."</p></div>
+<div class="w-full flex flex-col md:flex-row gap-8 items-start">
+<!-- Left Side: Guides -->
+<div class="w-full md:w-[35%] flex flex-col gap-6">
+<!-- S.O.F.T.E.N Tips Checklist -->
+<div class="w-full bg-white neo-brutal-yellow p-6 rounded-2xl">
+<div class="flex items-center gap-2 mb-4">
+<span class="material-symbols-outlined text-3xl text-black">tips_and_updates</span>
+<h3 class="font-black text-xl">S.O.F.T.E.N Tips</h3>
+</div>
+<ul class="space-y-4">
+<li class="flex items-start gap-3">
+<div class="bg-tertiary border-2 border-black rounded p-0.5 flex items-center justify-center mt-1">
+<span class="material-symbols-outlined text-sm font-black">check</span>
+</div>
+<div>
+<p class="font-black text-sm uppercase">Smile</p>
+<p class="text-xs font-bold text-gray-500">Tersenyum membuat suasana lebih cair dan ramah.</p>
+</div>
+</li>
+<li class="flex items-start gap-3">
+<div class="bg-black text-white border-2 border-black rounded p-0.5 flex items-center justify-center mt-1">
+<span class="material-symbols-outlined text-sm font-black">check</span>
+</div>
+<div>
+<p class="font-black text-sm uppercase">Eye Contact</p>
+<p class="text-xs font-bold text-gray-500">Menandakan kamu benar-benar memperhatikan lawan bicara.</p>
+</div>
+</li>
+<li class="flex items-start gap-3">
+<div class="bg-tertiary border-2 border-black rounded p-0.5 flex items-center justify-center mt-1">
+<span class="material-symbols-outlined text-sm font-black">check</span>
+</div>
+<div>
+<p class="font-black text-sm uppercase">Nod</p>
+<p class="text-xs font-bold text-gray-500">Mengangguk tanda kamu mengikuti alur ceritanya.</p>
+</div>
+</li>
+</ul>
+</div>
+<!-- A.R.A Guide Simplified -->
+<details class="w-full bg-white neo-brutal-pink rounded-2xl p-6 group cursor-pointer">
+<summary class="flex items-center justify-between">
+<h3 class="text-2xl font-black">1. A.R.A Guide</h3>
+<span class="material-symbols-outlined transition-transform group-open:rotate-180">expand_more</span>
+</summary>
+<div class="space-y-4 border-t-2 border-black/10 pt-4 mt-4">
+<div class="flex flex-col">
+<p class="text-sm font-bold"><span class="text-primary font-black uppercase">Acknowledge:</span> Hargai ceritanya dengan respon singkat.</p>
+</div>
+<div class="flex flex-col">
+<p class="text-sm font-bold"><span class="text-primary font-black uppercase">Relate:</span> Hubungkan dengan pengalaman serupa yang kamu punya.</p>
+</div>
+<div class="flex flex-col">
+<p class="text-sm font-bold"><span class="text-primary font-black uppercase">Ask:</span> Tanya balik untuk menjaga obrolan tetap mengalir.</p>
+</div>
+</div>
+</details><details class="w-full bg-brand-pink neo-brutal-black rounded-2xl p-6 group cursor-pointer">
+<summary class="flex items-center justify-between">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-black">chat_bubble</span>
+<h3 class="text-xl font-black uppercase">Contoh</h3>
+</div>
+<span class="material-symbols-outlined transition-transform group-open:rotate-180">expand_more</span>
+</summary>
+<div class="space-y-4 border-t-2 border-black/10 pt-4 mt-4">
+<div class="bg-white/50 p-4 rounded-xl border-2 border-black/10">
+<p class="text-xs font-bold text-black/70 mb-2 uppercase tracking-wider">Dialog:</p>
+<p class="text-sm font-bold text-black italic">"Wah, seru banget ya liburannya! (A) Aku juga pernah ke sana tahun lalu (R). Terus, bagian mana yang paling berkesan buat kamu? (A)"</p>
+</div>
+</div>
+</details>
+</div>
+<!-- Right Side: Interaction Area -->
+<div class="w-full md:w-[65%] flex flex-col items-center">
+<!-- Question Card -->
+<div class="bg-white neo-brutal-pink w-full aspect-[16/9] md:aspect-[2/1] rounded-[2.5rem] flex items-center justify-center p-8 text-center mb-8 relative overflow-hidden">
+<div class="slot-reel w-full h-full flex flex-col items-center justify-center">
+<div class="slot-items absolute w-full flex flex-col items-center" id="slot-items-container">
+<div class="h-full flex items-center justify-center p-4">
+<p class="text-2xl md:text-4xl font-black leading-tight text-black" id="active-question">Siap untuk mulai bertukar cerita?</p>
+</div>
+</div>
+</div>
+<div class="absolute top-6 right-8 bg-black text-white px-4 py-1.5 rounded-full text-[12px] font-black tracking-widest hidden" id="category-badge">FAMILY</div>
+</div>
+<!-- Action Button -->
+<button class="bg-brand-pink neo-brutal-black w-full max-w-md py-6 rounded-2xl text-white text-3xl font-black italic tracking-wider hover:scale-[1.02] transition-transform active:translate-y-1" id="btn-spin">
+                    SPIN SEKARANG
+                </button>
+<!-- Mad Libs Output Area -->
+<div class="mt-8 bg-tertiary neo-brutal-black p-6 rounded-2xl w-full max-w-md hidden" id="mad-libs-container">
+<div class="flex items-center gap-2 mb-2">
+<span class="material-symbols-outlined font-black">forum</span>
+<h3 class="font-black text-lg uppercase">Tips Respon:</h3>
+</div>
+<p class="font-bold text-on-surface leading-snug text-lg" id="mad-libs-text"></p>
+</div>
+<!-- Decorative Shapes -->
+<div class="mt-12 flex gap-4 text-brand-pink">
+<span class="material-symbols-outlined text-4xl" style="font-variation-settings: 'FILL' 1">favorite</span>
+<span class="material-symbols-outlined text-4xl" style="font-variation-settings: 'FILL' 1">pentagon</span>
+</div>
+</div>
+</div>
+</main>
+<!-- Footer -->
+<footer class="mt-auto pt-12 pb-6 flex flex-col items-center gap-4">
+<p class="text-black/40 font-black text-xs uppercase tracking-widest">© 2024 LATIHAN NGOBROL</p>
+</footer>
+<script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const fordData = {
+                "categories": {
+                    "family": {
+                        "name": "FAMILY",
+                        "questions": [
+                            { "text": "Siapa orang di keluargamu yang paling sering kamu mintai saran?", "mad_libs": "Wah, pasti punya pandangan yang bijak ya! Aku juga sering cerita kalau lagi buntu." },
+                            { "text": "Apa tradisi keluarga paling aneh atau lucu di rumahmu?", "mad_libs": "Hahaha kocak banget! Jarang banget ada keluarga yang punya tradisi unik kayak gitu." }
+                        ]
+                    },
+                    "occupation": {
+                        "name": "OCCUPATION",
+                        "questions": [
+                            { "text": "Kalau uang bukan masalah, kamu bakal milih kerja jadi apa?", "mad_libs": "Seru banget! Menjadi profesi itu emang impian banyak orang." },
+                            { "text": "Apa hobi paling random yang kamu lakukan di akhir pekan?", "mad_libs": "Wah, unik banget kegiatannya! Nggak nyangka kamu suka hal itu." }
+                        ]
+                    },
+                    "recreation": {
+                        "name": "RECREATION",
+                        "questions": [
+                            { "text": "Apa konser atau festival terbaik yang pernah kamu datangi?", "mad_libs": "Gokil, vibes pas acara itu pasti dapet banget memorinya!" }
+                        ]
+                    },
+                    "dreams": {
+                        "name": "DREAMS",
+                        "questions": [
+                            { "text": "Jika bisa tinggal di satu tempat impian selama setahun, ke mana?", "mad_libs": "Pilihan yang keren! Atmosfer di sana emang pas banget." }
+                        ]
+                    }
+                }
+            };
+
+            const btnSpin = document.getElementById('btn-spin');
+            const display = document.getElementById('active-question');
+            const categoryBadge = document.getElementById('category-badge');
+            const madLibsContainer = document.getElementById('mad-libs-container');
+            const madLibsText = document.getElementById('mad-libs-text');
+
+            let isSpinning = false;
+
+            function spin() {
+                if (isSpinning) return;
+                isSpinning = true;
+
+                btnSpin.innerText = "MEMUTAR...";
+                display.innerText = "???";
+                display.classList.add('animate-pulse');
+                madLibsContainer.classList.add('hidden');
+                categoryBadge.classList.add('hidden');
+
+                setTimeout(() => {
+                    const categories = Object.keys(fordData.categories);
+                    const randomCatKey = categories[Math.floor(Math.random() * categories.length)];
+                    const category = fordData.categories[randomCatKey];
+                    const question = category.questions[Math.floor(Math.random() * category.questions.length)];
+
+                    display.innerText = question.text;
+                    display.classList.remove('animate-pulse');
+                    categoryBadge.innerText = category.name;
+                    categoryBadge.classList.remove('hidden');
+                    
+                    madLibsText.innerText = question.mad_libs;
+                    madLibsContainer.classList.remove('hidden');
+
+                    btnSpin.innerText = "SPIN LAGI";
+                    isSpinning = false;
+                }, 800);
+            }
+
+            btnSpin.addEventListener('click', spin);
+        });
+    </script>
+</body></html>
