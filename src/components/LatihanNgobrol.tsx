@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import latihanData from '../data/latihan_ngobrol.json';
 import { SlotMachine } from './SlotMachine';
 import { ButtonNeo } from './ButtonNeo';

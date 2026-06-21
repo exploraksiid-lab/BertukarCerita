@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ButtonNeo } from './ButtonNeo';
 import { SlotMachine } from './SlotMachine';
 import { FollowUpDialog } from './FollowUpDialog';
